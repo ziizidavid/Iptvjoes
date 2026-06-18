@@ -1,7 +1,6 @@
 import re,requests
 from concurrent.futures import ThreadPoolExecutor
 SOURCE='https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8'
-REMOVE=['cricket','baseball','mlb']
 
 def alive(url):
     try:
@@ -16,9 +15,7 @@ while i<len(raw):
       b=[raw[i]];j=i+1
       while j<len(raw) and not raw[j].startswith('#EXTINF'):
           b.append(raw[j]);j+=1
-      txt=' '.join(b).lower()
-      if not any(x in txt for x in REMOVE):
-          blocks.append(b)
+      blocks.append(b)
       i=j
     else:
       i+=1
