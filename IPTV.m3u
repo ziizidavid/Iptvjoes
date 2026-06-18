@@ -303,10 +303,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts
 
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" ,FUSE
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
-
-
 #EXTINF:-1 tvg-chno="60" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" ,FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
