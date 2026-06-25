@@ -315,6 +315,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="63" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" ,FYI TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts
+
+
 #EXTINF:-1 tvg-chno="64" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" ,Game Show Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
 
@@ -389,6 +393,10 @@ http://41.205.93.154/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-chno="82" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" ,Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="83" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" ,Marquee Sports Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts
 
 
 #EXTINF:-1 tvg-chno="84" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" ,MLB Network
@@ -533,6 +541,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 
 #EXTINF:-1 tvg-chno="119" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" ,Smithsonian Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
+
+
+#EXTINF:-1 tvg-chno="120" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" ,Sony Movie Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
 
 
 #EXTINF:-1 tvg-chno="121" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" ,Space City Home Network
