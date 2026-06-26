@@ -119,10 +119,6 @@ http://193.239.186.231/BBC1/index.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
-#EXTINF:-1 tvg-chno="13" tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1" tvg-logo="https://images.open-epg.com/x1590.png" ,beIN Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-
 #EXTINF:-1 tvg-chno="14" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" ,BET
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
 
@@ -221,10 +217,6 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 
 #EXTINF:-1 tvg-chno="38" tvg-id="WPIX-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" ,CW
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
-
-
-#EXTINF:-1 tvg-chno="39" tvg-id="DAZN.LALIGA.es" tvg-name="DAZN" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" ,DAZN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="40" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" ,Discovery Channel
@@ -575,6 +567,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 
 
+#EXTINF:-1 tvg-chno="128" tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" ,Sportsnet One
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts
+
+
 #EXTINF:-1 tvg-chno="129" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" ,Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
@@ -732,81 +728,5 @@ https://storage.googleapis.com/mxyankees/btsport/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://storage.googleapis.com/mxyankees/prime/manifest.m3u8
 
-
-#EXTINF:-1 tvg-chno="301" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Curaçao vs Ivory Coast 2 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Curaçao vs Ivory Coast 2 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/fs1.m3u8
-
-
-#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Ecuador vs Germany 1 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Ecuador vs Germany 1 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/tsn1.m3u8
-
-
-#EXTINF:-1 tvg-chno="303" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Ecuador vs Germany 2 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Ecuador vs Germany 2 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/m6.m3u8
-
-
-#EXTINF:-1 tvg-chno="304" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Japan vs Sweden 1 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Japan vs Sweden 1 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/tsn2.m3u8
-
-
-#EXTINF:-1 tvg-chno="305" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Japan vs Sweden 2 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Japan vs Sweden 2 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/fs1.m3u8
-
-
-#EXTINF:-1 tvg-chno="306" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs Australia 1 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Paraguay vs Australia 1 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/tsn2.m3u8
-
-
-#EXTINF:-1 tvg-chno="307" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs Australia 2 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Paraguay vs Australia 2 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/tsn2.m3u8
-
-
-#EXTINF:-1 tvg-chno="308" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Tunisia vs Netherlands 1 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Tunisia vs Netherlands 1 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/tsn1.m3u8
-
-
-#EXTINF:-1 tvg-chno="309" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Tunisia vs Netherlands 2 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Tunisia vs Netherlands 2 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/m6.m3u8
-
-
-#EXTINF:-1 tvg-chno="310" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Turkey vs USA 1 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Turkey vs USA 1 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/tsn1.m3u8
-
-
-#EXTINF:-1 tvg-chno="311" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Turkey vs USA 2 (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" ,[World Cup] Turkey vs USA 2 (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://futbol-x.xyz
-#EXTVLCOPT:http-origin=https://futbol-x.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://futbolx-live.hf.space/live/fs1.m3u8
 
 # --- END AUTOGENERATED ---
