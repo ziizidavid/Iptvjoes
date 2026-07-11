@@ -119,6 +119,10 @@ http://193.239.186.231/BBC1/index.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
+#EXTINF:-1 tvg-chno="13" tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1" tvg-logo="https://images.open-epg.com/x1590.png" ,beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="14" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" ,BET
 http://206.212.244.63/16/index.m3u8
 
@@ -249,6 +253,10 @@ http://206.212.244.63/55/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" ,Disney Channel
 http://206.212.244.63/650/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-name="Disney Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" ,Disney Jr
+http://206.212.244.63/655/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="48" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" ,Disney XD
