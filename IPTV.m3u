@@ -275,10 +275,6 @@ http://206.212.244.63/59/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
 
 
-#EXTINF:-1 tvg-chno="52" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" ,ESPN U
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648974.ts
-
-
 #EXTINF:-1 tvg-chno="53" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" ,ESPN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 
@@ -669,6 +665,10 @@ http://206.212.244.63/168/index.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" ,VH1
 http://206.212.244.63/169/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="151" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" ,Vice TV
+http://206.212.244.63/170/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="152" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" ,We Tv
