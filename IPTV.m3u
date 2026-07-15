@@ -411,6 +411,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts
 
 
+#EXTINF:-1 tvg-chno="86" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" ,MotorTrend TV
+http://206.212.244.63/113/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="87" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" ,MSG
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/4435.ts
 
@@ -527,6 +531,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts
 http://206.212.244.63/144/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="116" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" ,SEC Network
+http://206.212.244.63/2511/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="117" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" ,Showtime
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts
 
@@ -553,6 +561,10 @@ http://206.212.244.63/148/index.m3u8
 
 #EXTINF:-1 tvg-chno="123" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" ,Sony Movie Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
+
+
+#EXTINF:-1 tvg-chno="124" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" ,Space City Home Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
 
 
 #EXTINF:-1 tvg-chno="125" tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" ,Spectrum SportsNet LA Dodgers
