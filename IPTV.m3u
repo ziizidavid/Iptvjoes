@@ -411,6 +411,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts
 
 
+#EXTINF:-1 tvg-chno="86" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" ,MotorTrend TV
+http://206.212.244.63/113/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="87" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" ,MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
