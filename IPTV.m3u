@@ -658,228 +658,1257 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2Njc2MjE5ODI6Y2RubGl2ZXR2LnR2OjEzOGI2ODkyZjA1MzljZmMuNmFjNzA1YjBmNDY4ZDE5NmZkZTcxNGNiNGQ3NDhmZmZjMjE0MzAxMzg5NDdmNDNhZGFhMjE1NmY1NTY1ZjllYg
 
 
-#EXTINF:-1 tvg-chno="154" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Dinamo Zagreb vs UEFA Champions League FC Thun (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Dinamo Zagreb vs UEFA Champions League FC Thun (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="175" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Győri ETO FC vs UEFA Conference League FC Atert Bissen (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Győri ETO FC vs UEFA Conference League FC Atert Bissen (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cd8bb/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkOGJiOjE3ODQ2Njc2MTM3MjA6Y2RubGl2ZXR2LnR2Ojc5NmQ5NzU1YzgwMDBmNGEuNmNhZjA2Y2VhYTY3ODM5YWQ1N2JlY2ZiZmU0YmE3ZDQ5MWRmYzdlN2Q2NTE0M2FiNmM0ZDVlZWVlY2NmZTdhZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cda3b/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkYTNiOjE3ODQ2Njc2MTU4OTI6Y2RubGl2ZXR2LnR2OjAwNWRhNGY0ZGI3YjhkZjguNzc5YzgyYmJhYzg4MjEyZDk2MGExNWFmNzc0MWJhZTliN2NmOWNkMmVjZWVkOGM2Y2NiMmE5ZWE1MDkxYzlhOA
 
 
-#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Górnik Zabrze vs UEFA Champions League Fenerbahçe (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Górnik Zabrze vs UEFA Champions League Fenerbahçe (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="176" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Heart of Midlothian (Hearts) vs UEFA Champions League Sturm Graz (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Heart of Midlothian (Hearts) vs UEFA Champions League Sturm Graz (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccbc9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYmM5OjE3ODQ2Njc2MTI3NDA6Y2RubGl2ZXR2LnR2OjgyY2RkZDE0MDNhMzNlZTkuYzgyYmEwNWYzY2I5M2VjMzk5NzliYTFjZWZhMDEwMzNmYzhkYjYyMGJlY2NhODJmMjgwZThiZWQwM2YyMWU5Mg
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc369/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzY5OjE3ODQ2Njc2MTc2Nzg6Y2RubGl2ZXR2LnR2OjQ0ZDI0Y2I2YWE3ZDJjNzguODQyZmU2M2FjYjFiMmE2YjQ0ZTVhYzUwNGU5NWVhYzkyMjFjNjE4MzA4ZDljOTMwMTRlMDBlODBmMWJmMjlkZg
 
 
-#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Helsingborgs IF vs Sweden Superettan Falkenbergs FF (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Helsingborgs IF vs Sweden Superettan Falkenbergs FF (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="183" tvg-id="Live.Event.us" tvg-name="[Brazilian Serie A] Atlético Mineiro vs Bahia | #Vamos ES (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Brazilian Serie A] Atlético Mineiro vs Bahia | #Vamos ES (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd876/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkODc2OjE3ODQ2NjQwMzA2MDA6Y2RubGl2ZXR2LnR2OmM0YzM3MmExOWM3Y2VmNmUuMmFkMmIwNGM1MzNlYjVlMmQ3NWJjMGFlOTU1MGViMDFiN2M2OWJlZjA1YzRkYzk0NWE4MWJhNzNkNWQxZGFmNA
+https://hoofoot.ru/stream/NTIx
 
 
-#EXTINF:-1 tvg-chno="160" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Lech Poznań vs UEFA Champions League AGF Aarhus (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Lech Poznań vs UEFA Champions League AGF Aarhus (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="184" tvg-id="Live.Event.us" tvg-name="[Brazilian Serie A] Atlético Mineiro vs Bahia | Premiere BR (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Brazilian Serie A] Atlético Mineiro vs Bahia | Premiere BR (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3ODQ2NjQwMzcwMTc6Y2RubGl2ZXR2LnR2OmQ4NjliMjE4NTBlNTQwNGIuYzg2YmQ0N2MxNDM2NTk4M2FjYjI0YjBhMTZhNTAwYzgwNDM0ZjIwZmUwYTY5MGE2ZjQ4OWZiMWI4YjhkOWM1Mg
+https://hoofoot.ru/stream/ODg=
 
 
-#EXTINF:-1 tvg-chno="161" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Lech Poznań | TVP Sport Poland (CH-128) vs UEFA Champions League AGF Aarhus (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Lech Poznań | TVP Sport Poland (CH-128) vs UEFA Champions League AGF Aarhus (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%2B%20HD%20DK&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%2B%20HD%20DK&code=dk&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[Brazilian Serie A] Atlético Mineiro vs Bahia | SporTV BR (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Brazilian Serie A] Atlético Mineiro vs Bahia | SporTV BR (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd711/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzExOjE3ODQ2NjQwMjg4NDA6Y2RubGl2ZXR2LnR2Ojk4MjUxNDlmMWQzMzJmYjcuZGRjMDNiMTk4MGM3YjM3M2FmNTBlNGNhYmE1ZDUyZDc3MDA2ZGU3ODQyZjI3ZmY4MGU4Zjg0YTQxZDYwNzllZA
+https://hoofoot.ru/stream/Nzg=
 
 
-#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[Cricket] New Zealand vs 5th ODI West Indies (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Cricket] New Zealand vs 5th ODI West Indies (CDNTV)
+#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[Brazilian Serie B] Novorizontino vs Criciúma | ESPN4 Brazil (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Brazilian Serie B] Novorizontino vs Criciúma | ESPN4 Brazil (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODU=
+
+
+#EXTINF:-1 tvg-chno="198" tvg-id="Live.Event.us" tvg-name="[Club Friendlies] Orlando Pirates vs Al-Ittihad | SuperSport Variety 4 (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Club Friendlies] Orlando Pirates vs Al-Ittihad | SuperSport Variety 4 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDE5
+
+
+#EXTINF:-1 tvg-chno="200" tvg-id="Live.Event.us" tvg-name="[Collegiate Baseball League] Keene Swamp Bats vs Vermont Mountaineers | ESPN+ USA [Backup] (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Collegiate Baseball League] Keene Swamp Bats vs Vermont Mountaineers | ESPN+ USA [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTU=
+
+
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | Arena 1 Premium Serbia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | Arena 1 Premium Serbia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTM0
+
+
+#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | Arena Sport 1 Croatia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | Arena Sport 1 Croatia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDMy
+
+
+#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | ESPN Brazil (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | ESPN Brazil (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODE=
+
+
+#EXTINF:-1 tvg-chno="207" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | Sport 2 Israel (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | Sport 2 Israel (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTQx
+
+
+#EXTINF:-1 tvg-chno="208" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | Sportdigital FUSSBALL DE (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | Sportdigital FUSSBALL DE (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTcx
+
+
+#EXTINF:-1 tvg-chno="210" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | beIN SPORTS USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | beIN SPORTS USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDI1
+
+
+#EXTINF:-1 tvg-chno="212" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | beIN SPORTS en Español (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | beIN SPORTS en Español (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzcy
+
+
+#EXTINF:-1 tvg-chno="214" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] Nacional Montevideo vs Tigre | beIN Sports MENA English 1 (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] Nacional Montevideo vs Tigre | beIN Sports MENA English 1 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NjE=
+
+
+#EXTINF:-1 tvg-chno="218" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | Arena 1 Premium Serbia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | Arena 1 Premium Serbia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTM0
+
+
+#EXTINF:-1 tvg-chno="219" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | Arena Sport 1 Croatia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | Arena Sport 1 Croatia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDMy
+
+
+#EXTINF:-1 tvg-chno="221" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | ESPN 1 NL (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | ESPN 1 NL (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzc5
+
+
+#EXTINF:-1 tvg-chno="222" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | ESPN Brazil (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | ESPN Brazil (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODE=
+
+
+#EXTINF:-1 tvg-chno="223" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | ESPN2 Argentina (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | ESPN2 Argentina (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTUw
+
+
+#EXTINF:-1 tvg-chno="224" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | Sport TV1 Portugal [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | Sport TV1 Portugal [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MjYx
+
+
+#EXTINF:-1 tvg-chno="225" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | Sportdigital FUSSBALL DE (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | Sportdigital FUSSBALL DE (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTcx
+
+
+#EXTINF:-1 tvg-chno="227" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | beIN SPORTS USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | beIN SPORTS USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDI1
+
+
+#EXTINF:-1 tvg-chno="229" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | beIN SPORTS en Español (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | beIN SPORTS en Español (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzcy
+
+
+#EXTINF:-1 tvg-chno="231" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | beIN Sports MENA 1 (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | beIN Sports MENA 1 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTE=
+
+
+#EXTINF:-1 tvg-chno="232" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Sudamericana] UCV vs Santos | beIN Sports MENA English 1 (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1208.png" ,[Copa Sudamericana] UCV vs Santos | beIN Sports MENA English 1 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NjE=
+
+
+#EXTINF:-1 tvg-chno="233" tvg-id="Live.Event.us" tvg-name="[Copa do Brasil Feminino] Fluminense Women vs Cruzeiro Women | SporTV BR (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Copa do Brasil Feminino] Fluminense Women vs Cruzeiro Women | SporTV BR (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzg=
+
+
+#EXTINF:-1 tvg-chno="234" tvg-id="Live.Event.us" tvg-name="[Copa do Brasil Feminino] Vasco da Gama Women vs São Paulo Women | SporTV BR (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Copa do Brasil Feminino] Vasco da Gama Women vs São Paulo Women | SporTV BR (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzg=
+
+
+#EXTINF:-1 tvg-chno="236" tvg-id="Live.Event.us" tvg-name="[Cricket] New Zealand vs 5th ODI West Indies (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Cricket] New Zealand vs 5th ODI West Indies (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2Njc2MjExNzU6Y2RubGl2ZXR2LnR2OjYwNGIwYTA5MzY1NDFjM2YuMWIzN2E4ZTY4YjM1NDM1ZDUyYzI4NTRiNzRhMDQzNzM5MzE3MjRhYmMwZGUxNTRiOTk3ODE2NWVmNWY3ODZiMQ
 
 
-#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[Cricket] Sunrisers Leeds vs The Hundred MI London (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Cricket] Sunrisers Leeds vs The Hundred MI London (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="260" tvg-id="Live.Event.us" tvg-name="[High School Baseball – IAHSAA Class 2A Tournament] Roland-Story vs Durant | Marquee Sports Network USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[High School Baseball – IAHSAA Class 2A Tournament] Roland-Story vs Durant | Marquee Sports Network USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2NjQwNDQ4Mjk6Y2RubGl2ZXR2LnR2OjAzMmQ4ZGI4MmUwMGI5ZjguOTUwYzUxZDBkZWYyYmM1M2M4Y2IwZWE4ZDAwZTk4MWVmNzBlNzg4YzMxNTgyNWIxOGJiMGM3MDQzZDExM2Y5MA
+https://hoofoot.ru/stream/Nzcw
 
 
-#EXTINF:-1 tvg-chno="223" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Diamondbacks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Athletics vs Diamondbacks (WEBCAST)
+#EXTINF:-1 tvg-chno="261" tvg-id="Live.Event.us" tvg-name="[High School Baseball – IAHSAA Class 2A Tournament] West Lyon vs Unity Christian | Marquee Sports Network USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[High School Baseball – IAHSAA Class 2A Tournament] West Lyon vs Unity Christian | Marquee Sports Network USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzcw
+
+
+#EXTINF:-1 tvg-chno="265" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Live Racing from Around the UK | Sky Sports Racing UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Horse Racing] Live Racing from Around the UK | Sky Sports Racing UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTU0
+
+
+#EXTINF:-1 tvg-chno="266" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Musselburgh, Nottingham &amp; Salisbury | Ballinrobe | Racing TV UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Horse Racing] Musselburgh, Nottingham &amp; Salisbury | Ballinrobe | Racing TV UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTU1
+
+
+#EXTINF:-1 tvg-chno="267" tvg-id="Live.Event.us" tvg-name="[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 1 | Polsat Sport Premium 2 Poland (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 1 | Polsat Sport Premium 2 Poland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTky
+
+
+#EXTINF:-1 tvg-chno="268" tvg-id="Live.Event.us" tvg-name="[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 1 | Sky Sports 3 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 1 | Sky Sports 3 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTkw
+
+
+#EXTINF:-1 tvg-chno="269" tvg-id="Live.Event.us" tvg-name="[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 2 | Polsat Sport Premium 2 Poland (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 2 | Polsat Sport Premium 2 Poland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTky
+
+
+#EXTINF:-1 tvg-chno="270" tvg-id="Live.Event.us" tvg-name="[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 2 | Sky Sports 3 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[ICF Canoe Slalom World Championships] Oklahoma City, Oklahoma, USA – Day 1 Session 2 | Sky Sports 3 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTkw
+
+
+#EXTINF:-1 tvg-chno="272" tvg-id="Live.Event.us" tvg-name="[Lanka Premier League] Dambulla Sixers vs Kandy Royals | Willow 2 Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Lanka Premier League] Dambulla Sixers vs Kandy Royals | Willow 2 Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTk4
+
+
+#EXTINF:-1 tvg-chno="280" tvg-id="Live.Event.us" tvg-name="[Little League Softball Central Region, Game 17] Teams TBA | ESPN USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Little League Softball Central Region, Game 17] Teams TBA | ESPN USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDQ=
+
+
+#EXTINF:-1 tvg-chno="281" tvg-id="Live.Event.us" tvg-name="[Little League Softball Southeast Region] North Carolina vs. TBA | ESPN USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Little League Softball Southeast Region] North Carolina vs. TBA | ESPN USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDQ=
+
+
+#EXTINF:-1 tvg-chno="282" tvg-id="Live.Event.us" tvg-name="[Little League Softball Southwest Region] Louisiana vs. Texas West | ESPN USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Little League Softball Southwest Region] Louisiana vs. Texas West | ESPN USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDQ=
+
+
+#EXTINF:-1 tvg-chno="283" tvg-id="Live.Event.us" tvg-name="[Little League Softball] Little League Softball Regionals | ESPN+ USA [Backup] (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Little League Softball] Little League Softball Regionals | ESPN+ USA [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTk=
+
+
+#EXTINF:-1 tvg-chno="284" tvg-id="Live.Event.us" tvg-name="[Live Event] ATP 250 Estoril • WTA 250 Prague • ATP 250 Kitzbühel • WTA 250 Hamburg | SportKlub 2 Croatia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Live Event] ATP 250 Estoril • WTA 250 Prague • ATP 250 Kitzbühel • WTA 250 Hamburg | SportKlub 2 Croatia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTAy
+
+
+#EXTINF:-1 tvg-chno="285" tvg-id="Live.Event.us" tvg-name="[Live Event] WTA 250 Hamburg • ATP 250 Estoril • ATP 250 Kitzbühel • WTA 250 Prague | SportKlub 1 Croatia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Live Event] WTA 250 Hamburg • ATP 250 Estoril • ATP 250 Kitzbühel • WTA 250 Prague | SportKlub 1 Croatia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTAx
+
+
+#EXTINF:-1 tvg-chno="286" tvg-id="Live.Event.us" tvg-name="[Live Event] WTA 250 Prague • ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg | SportKlub 4 Croatia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Live Event] WTA 250 Prague • ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg | SportKlub 4 Croatia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTA0
+
+
+#EXTINF:-1 tvg-chno="287" tvg-id="Live.Event.us" tvg-name="[Live Event] WTA 250 Prague • ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg | SportKlub 5 Croatia [Backup] (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Live Event] WTA 250 Prague • ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg | SportKlub 5 Croatia [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mg==
+
+
+#EXTINF:-1 tvg-chno="288" tvg-id="Live.Event.us" tvg-name="[Live Event] WTA 250 Prague • WTA 250 Hamburg | SportKlub 10 Croatia [Backup] (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Live Event] WTA 250 Prague • WTA 250 Hamburg | SportKlub 10 Croatia [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Ng==
+
+
+#EXTINF:-1 tvg-chno="290" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs Athletics | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Arizona Diamondbacks vs Athletics | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTQ=
+
+
+#EXTINF:-1 tvg-chno="291" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs Athletics | NBCS California USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Arizona Diamondbacks vs Athletics | NBCS California USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzU1
+
+
+#EXTINF:-1 tvg-chno="293" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Diamondbacks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Athletics vs Diamondbacks (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=xubKrtDpb0CT7-4PGwWLhQCez-UOyvTG4qRbOc0X4Yg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC%2F&expires=1784664037/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC/134.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=1kSxGDRufn6gIyFjgpvkopk0HO5kZhpKZ3pm-vwl65E&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC%2F&expires=1784676647/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC/134.m3u8
 
 
-#EXTINF:-1 tvg-chno="226" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cardinals vs Angels (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cardinals vs Angels (WEBCAST)
+#EXTINF:-1 tvg-chno="294" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs San Diego Padres | ESPN Mexico (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves vs San Diego Padres | ESPN Mexico (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTI1
+
+
+#EXTINF:-1 tvg-chno="295" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs San Diego Padres | ESPN2 Brazil (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves vs San Diego Padres | ESPN2 Brazil (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODI=
+
+
+#EXTINF:-1 tvg-chno="296" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs San Diego Padres | ESPN3 Argentina (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves vs San Diego Padres | ESPN3 Argentina (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzk4
+
+
+#EXTINF:-1 tvg-chno="297" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs San Diego Padres | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves vs San Diego Padres | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Ng==
+
+
+#EXTINF:-1 tvg-chno="299" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Baltimore Orioles | MASN USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Boston Red Sox vs Baltimore Orioles | MASN USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODI5
+
+
+#EXTINF:-1 tvg-chno="300" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Baltimore Orioles | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Boston Red Sox vs Baltimore Orioles | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NQ==
+
+
+#EXTINF:-1 tvg-chno="301" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Baltimore Orioles | NESN USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Boston Red Sox vs Baltimore Orioles | NESN USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzYy
+
+
+#EXTINF:-1 tvg-chno="303" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cardinals vs Angels (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cardinals vs Angels (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=BHknb5-F_UZB45z24qmB537SZ4wRuFRbvId8er64OkY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%2F&expires=1784664037/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og/106.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=z8S7Y2DY-wXGKZOn84IX2wp3KZu0_OK2VPto0kYe9_U&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%2F&expires=1784676647/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og/106.m3u8
 
 
-#EXTINF:-1 tvg-chno="230" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Dodgers vs Phillies (WEBCAST)
+#EXTINF:-1 tvg-chno="304" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Detroit Tigers | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Detroit Tigers | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTA=
+
+
+#EXTINF:-1 tvg-chno="305" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Detroit Tigers | Marquee Sports Network (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Detroit Tigers | Marquee Sports Network (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzcw
+
+
+#EXTINF:-1 tvg-chno="306" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Detroit Tigers | TSN1 (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Detroit Tigers | TSN1 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTEx
+
+
+#EXTINF:-1 tvg-chno="307" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Detroit Tigers | TSN3 (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Detroit Tigers | TSN3 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTEz
+
+
+#EXTINF:-1 tvg-chno="308" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Detroit Tigers | TSN4 (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Detroit Tigers | TSN4 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTE0
+
+
+#EXTINF:-1 tvg-chno="311" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Minnesota Twins | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cleveland Guardians vs Minnesota Twins | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mg==
+
+
+#EXTINF:-1 tvg-chno="312" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Colorado Rockies vs Washington Nationals | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Colorado Rockies vs Washington Nationals | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTI=
+
+
+#EXTINF:-1 tvg-chno="314" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Dodgers vs Phillies (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=w9cvipHPOKAtXwearCzCfrFvP7ouNMc-8RtXC3K2__I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37%2F&expires=1784664029/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37/114.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=GD53q2K4Hx_pryI_XF00R6SJW_Lgy9qP1vqoK-8OIpc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37%2F&expires=1784676643/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37/114.m3u8
 
 
-#EXTINF:-1 tvg-chno="231" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Giants vs Royals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Giants vs Royals (WEBCAST)
+#EXTINF:-1 tvg-chno="315" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Giants vs Royals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Giants vs Royals (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=fFWjKwv7jUyO9Al9aE4W4-PMykzSsIf3ph-uZFw0e-g&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ%2F&expires=1784664033/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ/117.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=K8GUMz66Bh5O-WO0zV77bNU3UXuMNRDHTkma8gLgl4c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ%2F&expires=1784676645/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ/117.m3u8
 
 
-#EXTINF:-1 tvg-chno="233" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Marlins vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Marlins vs Astros (WEBCAST)
+#EXTINF:-1 tvg-chno="316" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Miami Marlins | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Houston Astros vs Miami Marlins | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTE=
+
+
+#EXTINF:-1 tvg-chno="317" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Miami Marlins | Space City Home Network (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Houston Astros vs Miami Marlins | Space City Home Network (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTIx
+
+
+#EXTINF:-1 tvg-chno="318" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals vs San Francisco Giants | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Kansas City Royals vs San Francisco Giants | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OA==
+
+
+#EXTINF:-1 tvg-chno="319" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals vs San Francisco Giants | NBCS Bay Area USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Kansas City Royals vs San Francisco Giants | NBCS Bay Area USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzUz
+
+
+#EXTINF:-1 tvg-chno="320" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs St. Louis Cardinals | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Angels vs St. Louis Cardinals | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTM=
+
+
+#EXTINF:-1 tvg-chno="321" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs St. Louis Cardinals | TVA Sports CA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Angels vs St. Louis Cardinals | TVA Sports CA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODMz
+
+
+#EXTINF:-1 tvg-chno="323" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Marlins vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Marlins vs Astros (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=7RfmkW3E-q6QgM4zbd5UyEuMCq67w9mg4Sg5g5NuTe8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1784664035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=zzKLTQRFuDZoGKq3Mbpz4DKi3MDvygkhd7vYZy-3nv8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1784676646/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
 
 
-#EXTINF:-1 tvg-chno="234" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mets vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Mets vs Brewers (WEBCAST)
+#EXTINF:-1 tvg-chno="324" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mets vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Mets vs Brewers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=elNbq3MQlNlYit_dx42ni3SrC7mOeLbr51jcVPTxTj8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1784664034/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=ZEXgaUqRJVw8AAZ-QCgftyUKPohWbiDm8ook_0dlhvM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1784676645/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
 
 
-#EXTINF:-1 tvg-chno="237" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Nationals vs Rockies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Nationals vs Rockies (WEBCAST)
+#EXTINF:-1 tvg-chno="326" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs New York Mets | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Milwaukee Brewers vs New York Mets | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nw==
+
+
+#EXTINF:-1 tvg-chno="327" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs New York Mets | SportsNet New York USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Milwaukee Brewers vs New York Mets | SportsNet New York USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzU5
+
+
+#EXTINF:-1 tvg-chno="329" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Nationals vs Rockies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Nationals vs Rockies (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=X7hFnZ-uWMHWcCccryb3i_WdsrW7bL_qwstFEgiaw-c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F&expires=1784664036/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U/119.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=2BBk6sHrS0NjYS_o2_kppiT314uUtobPwnsni4VF6sw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F&expires=1784676647/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U/119.m3u8
 
 
-#EXTINF:-1 tvg-chno="239" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs Red Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Orioles vs Red Sox (WEBCAST)
+#EXTINF:-1 tvg-chno="331" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Pittsburgh Pirates | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees vs Pittsburgh Pirates | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mw==
+
+
+#EXTINF:-1 tvg-chno="332" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Pittsburgh Pirates | SportsNet Pittsburgh (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees vs Pittsburgh Pirates | SportsNet Pittsburgh (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTIy
+
+
+#EXTINF:-1 tvg-chno="333" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Pittsburgh Pirates | Sportsnet One (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees vs Pittsburgh Pirates | Sportsnet One (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDEx
+
+
+#EXTINF:-1 tvg-chno="334" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Pittsburgh Pirates | YES USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees vs Pittsburgh Pirates | YES USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzYz
+
+
+#EXTINF:-1 tvg-chno="335" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs Red Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Orioles vs Red Sox (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=-2BkQ_bs1VkxiNl-jjekiiufLzmqlEYpkdXiuCr-7Y8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%2F&expires=1784664031/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE/120.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=zWmTRMxq08efABaEDqLgg7cpUXZr2VCxHBAWl7cpNgk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%2F&expires=1784676644/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE/120.m3u8
 
 
-#EXTINF:-1 tvg-chno="240" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Padres vs Braves (WEBCAST)
+#EXTINF:-1 tvg-chno="336" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Padres vs Braves (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=CbkXEN8CuBQLjuVK2A3H6mpOe18y2HOczWOPNdrLRZk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1784664032/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=nSz7C8Rt4LHHTHM_JnYPe31T9QbjDlN54FeVHCUrb2c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1784676645/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
 
 
-#EXTINF:-1 tvg-chno="241" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pirates vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Pirates vs Yankees (WEBCAST)
+#EXTINF:-1 tvg-chno="337" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Los Angeles Dodgers | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Philadelphia Phillies vs Los Angeles Dodgers | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MQ==
+
+
+#EXTINF:-1 tvg-chno="338" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Los Angeles Dodgers | NBC Sports Philadelphia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Philadelphia Phillies vs Los Angeles Dodgers | NBC Sports Philadelphia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzc3
+
+
+#EXTINF:-1 tvg-chno="339" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Los Angeles Dodgers | Spectrum SportsNet LA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Philadelphia Phillies vs Los Angeles Dodgers | Spectrum SportsNet LA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzY0
+
+
+#EXTINF:-1 tvg-chno="340" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Los Angeles Dodgers | TBS USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Philadelphia Phillies vs Los Angeles Dodgers | TBS USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzM2
+
+
+#EXTINF:-1 tvg-chno="342" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Los Angeles Dodgers | truTV USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Philadelphia Phillies vs Los Angeles Dodgers | truTV USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzQx
+
+
+#EXTINF:-1 tvg-chno="343" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pirates vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Pirates vs Yankees (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=YwT3Mbo8Ed8eol7Er3nuiTwO1en6-OEhu0PC0mw1QD0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F&expires=1784664029/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG/124.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=kN4BtmK0TbuZMuvuPe_w7ukl-WBkCrn2Oi5NwPd780g&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F&expires=1784676644/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG/124.m3u8
 
 
-#EXTINF:-1 tvg-chno="243" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Jays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Rays vs Jays (WEBCAST)
+#EXTINF:-1 tvg-chno="345" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Jays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Rays vs Jays (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=aUz8ym6kFKRP-epZqH3ehFc0oQh_ci6cIhlS_MUtsFw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F&expires=1784664030/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1/125.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=IBQxcylgEHNbKFo3ryNvKSv7-Y3_Nob633aLZ0wt0KQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F&expires=1784676644/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1/125.m3u8
 
 
-#EXTINF:-1 tvg-chno="244" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Mariners (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Reds vs Mariners (WEBCAST)
+#EXTINF:-1 tvg-chno="346" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Mariners (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Reds vs Mariners (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=bqb5bX7wJbLg5Y0nohO2taKrSpdx-eMQ2ev6lPgR_RI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq%2F&expires=1784664038/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq/110.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=aCScCZGqJAhAWEPXj0w3X9qL5xwfz0LQ8bSrTUYd4A4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq%2F&expires=1784676648/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq/110.m3u8
 
 
-#EXTINF:-1 tvg-chno="249" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tigers vs Cubs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Tigers vs Cubs (WEBCAST)
+#EXTINF:-1 tvg-chno="349" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Cincinnati Reds | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Seattle Mariners vs Cincinnati Reds | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTU=
+
+
+#EXTINF:-1 tvg-chno="350" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Cincinnati Reds | MLB Network USA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Seattle Mariners vs Cincinnati Reds | MLB Network USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzk5
+
+
+#EXTINF:-1 tvg-chno="352" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Cincinnati Reds | TNT Sports 3 UK (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Seattle Mariners vs Cincinnati Reds | TNT Sports 3 UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzM=
+
+
+#EXTINF:-1 tvg-chno="353" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Cincinnati Reds | beIN Sports 4 Max France (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Seattle Mariners vs Cincinnati Reds | beIN Sports 4 Max France (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDk0
+
+
+#EXTINF:-1 tvg-chno="356" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Texas Rangers vs Chicago White Sox | Chicago Sports Network (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Texas Rangers vs Chicago White Sox | Chicago Sports Network (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzc2
+
+
+#EXTINF:-1 tvg-chno="357" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Texas Rangers vs Chicago White Sox | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Texas Rangers vs Chicago White Sox | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OQ==
+
+
+#EXTINF:-1 tvg-chno="358" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tigers vs Cubs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Tigers vs Cubs (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=vMcvoZEb4a1vBOx96l_AlALo5gSqJvV-xWYhB-__Ry8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH%2F&expires=1784664034/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH/131.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=0fneiJtKMWQHOrBIQIc6VQnxvJ4DmvDjS1sShQHecsw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH%2F&expires=1784676646/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH/131.m3u8
 
 
-#EXTINF:-1 tvg-chno="250" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Twins vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Twins vs Guardians (WEBCAST)
+#EXTINF:-1 tvg-chno="359" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Tampa Bay Rays | MLB League Pass [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Toronto Blue Jays vs Tampa Bay Rays | MLB League Pass [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NA==
+
+
+#EXTINF:-1 tvg-chno="360" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Tampa Bay Rays | Sportsnet East (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Toronto Blue Jays vs Tampa Bay Rays | Sportsnet East (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDA4
+
+
+#EXTINF:-1 tvg-chno="361" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Tampa Bay Rays | Sportsnet Ontario (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Toronto Blue Jays vs Tampa Bay Rays | Sportsnet Ontario (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDA2
+
+
+#EXTINF:-1 tvg-chno="362" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Tampa Bay Rays | TVA Sports CA (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Toronto Blue Jays vs Tampa Bay Rays | TVA Sports CA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODMz
+
+
+#EXTINF:-1 tvg-chno="363" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Twins vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Twins vs Guardians (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=Fza5iU0zLtB1dqI8b_o2HYnBiw5tg9n_nRyaoEhRpYg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1784664028/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=kp3JZ6xho6F0kgfYArTX8H0IsXF6lmGYSGr3n1GVais&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1784676643/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
 
 
-#EXTINF:-1 tvg-chno="252" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] White Sox vs Rangers (WEBCAST)
+#EXTINF:-1 tvg-chno="365" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] White Sox vs Rangers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=OVB4pnYCYQjXahwFRaFr1Y4ZytwbNhov_usHkpn_1zg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1784664035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=FdrB8Sv8W5EwDI8MkAyqIyTW9U_m9mQcTWlHPWmBd40&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1784676646/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
 
 
-#EXTINF:-1 tvg-chno="268" tvg-id="Live.Event.us" tvg-name="[Motorsport] Dackarna Malilla vs Swedish Elitserien Speedway Indianerna (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Motorsport] Dackarna Malilla vs Swedish Elitserien Speedway Indianerna (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="381" tvg-id="Live.Event.us" tvg-name="[One Day International Series] West Indies vs New Zealand | Sky Sport 2 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[One Day International Series] West Indies vs New Zealand | Sky Sport 2 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc36b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzZiOjE3ODQ2NjQwNDI5OTQ6Y2RubGl2ZXR2LnR2OjBmNzIxZDA1Y2U5YmVhMTYuN2Q2NmY3ZWExMzBmZGI4N2RhYWMyYjhmODZhZjJhZjEzMjMwMDJjMTVkYjYyZTQ0YTViOGQzMzI1MWE0NTk3OA
+https://hoofoot.ru/stream/NTg5
 
 
-#EXTINF:-1 tvg-chno="275" tvg-id="Live.Event.us" tvg-name="[Swedish Elitserien Speedway] Dackarna Malilla vs Indianerna (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Elitserien Speedway] Dackarna Malilla vs Indianerna (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="382" tvg-id="Live.Event.us" tvg-name="[One Day International Series] West Indies vs New Zealand | SuperSport Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[One Day International Series] West Indies vs New Zealand | SuperSport Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc36b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzZiOjE3ODQ2NjQwNDM4OTM6Y2RubGl2ZXR2LnR2OjQ2NTUzMTcxY2NmZmQ4MmIuNDlhNDU2ZGJiNTNhMzJmNDc3YjBhMGQ1MWRjNzhkZDA2M2ViNjhjNTAwNWRiNTEyMWY0YTQ4ZjkxM2IyYTE1Yw
+https://hoofoot.ru/stream/MzY4
 
 
-#EXTINF:-1 tvg-chno="276" tvg-id="Live.Event.us" tvg-name="[Swedish Superettan] Helsingborgs IF vs Falkenbergs FF (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Superettan] Helsingborgs IF vs Falkenbergs FF (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="383" tvg-id="Live.Event.us" tvg-name="[One Day International Series] West Indies vs New Zealand | SuperSport Grandstand (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[One Day International Series] West Indies vs New Zealand | SuperSport Grandstand (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd876/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkODc2OjE3ODQ2NjQwMzk1MDY6Y2RubGl2ZXR2LnR2OjA2MDU4M2Q2NWY1N2RmZGMuNjJiM2UwOGQ3ZDE3NzI5YWY2Y2YzYzczNTZlYWY0OTE0Y2FiZWFiY2RiMzJhYjZmMGUxMDEyM2RkNTNlODRmNA
+https://hoofoot.ru/stream/NDEy
 
 
-#EXTINF:-1 tvg-chno="281" tvg-id="Live.Event.us" tvg-name="[The Hundred] Sunrisers Leeds vs MI London (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] Sunrisers Leeds vs MI London (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="384" tvg-id="Live.Event.us" tvg-name="[One Day International Series] West Indies vs New Zealand | TNT Sports 1 UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[One Day International Series] West Indies vs New Zealand | TNT Sports 1 UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2NjQwNDU3NTQ6Y2RubGl2ZXR2LnR2OjlhYWNkNDY2YWYzM2QxMmYuMzNlM2I3NWJiMWM4YzE4MDk3NjUzYzFjYWNhMzJkYzM0YTM4MjM5OWY2NDFjM2MyNjk5NGQxYzA2YjY0MGU2ZQ
+https://hoofoot.ru/stream/MzE=
 
 
-#EXTINF:-1 tvg-chno="282" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Aarhus vs Lech Poznan (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Aarhus vs Lech Poznan (FAWA)
+#EXTINF:-1 tvg-chno="385" tvg-id="Live.Event.us" tvg-name="[One Day International Series] West Indies vs New Zealand | Willow Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[One Day International Series] West Indies vs New Zealand | Willow Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzQ2
+
+
+#EXTINF:-1 tvg-chno="386" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | Arena Sport 5 Serbia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | Arena Sport 5 Serbia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTQw
+
+
+#EXTINF:-1 tvg-chno="387" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | CANAL+ SPORT 5 Poland (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | CANAL+ SPORT 5 Poland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzU=
+
+
+#EXTINF:-1 tvg-chno="389" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | DAZN2 DE (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | DAZN2 DE (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDI3
+
+
+#EXTINF:-1 tvg-chno="390" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | Sky Sports 1 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | Sky Sports 1 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTg4
+
+
+#EXTINF:-1 tvg-chno="391" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | Sky Sports Action UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | Sky Sports Action UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzc=
+
+
+#EXTINF:-1 tvg-chno="392" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | Sky Sports Main Event UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | Sky Sports Main Event UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzg=
+
+
+#EXTINF:-1 tvg-chno="393" tvg-id="Live.Event.us" tvg-name="[PDC Darts] Betfred World Matchplay Day 4 | Sport 1 Hungary [Backup] (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[PDC Darts] Betfred World Matchplay Day 4 | Sport 1 Hungary [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OQ==
+
+
+#EXTINF:-1 tvg-chno="395" tvg-id="Live.Event.us" tvg-name="[SA Women's Hockey 2026 – 2nd Test] South Africa Women vs Namibia Women | Premier Sports 2 Ireland (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[SA Women's Hockey 2026 – 2nd Test] South Africa Women vs Namibia Women | Premier Sports 2 Ireland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzk5
+
+
+#EXTINF:-1 tvg-chno="396" tvg-id="Live.Event.us" tvg-name="[SA Women's Hockey 2026 – 2nd Test] South Africa Women vs Namibia Women | SuperSport Variety 3 (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[SA Women's Hockey 2026 – 2nd Test] South Africa Women vs Namibia Women | SuperSport Variety 3 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDE4
+
+
+#EXTINF:-1 tvg-chno="399" tvg-id="Live.Event.us" tvg-name="[Supercopa Argentina] Estudiantes vs Independiente Rivadavia | ESPN Argentina (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Supercopa Argentina] Estudiantes vs Independiente Rivadavia | ESPN Argentina (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTQ5
+
+
+#EXTINF:-1 tvg-chno="400" tvg-id="Live.Event.us" tvg-name="[Supercopa Argentina] Estudiantes vs Independiente Rivadavia | ESPN2 Mexico (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Supercopa Argentina] Estudiantes vs Independiente Rivadavia | ESPN2 Mexico (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTI2
+
+
+#EXTINF:-1 tvg-chno="401" tvg-id="Live.Event.us" tvg-name="[Supercopa Argentina] Estudiantes vs Independiente Rivadavia | ESPN3 Brazil (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Supercopa Argentina] Estudiantes vs Independiente Rivadavia | ESPN3 Brazil (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODM=
+
+
+#EXTINF:-1 tvg-chno="405" tvg-id="Live.Event.us" tvg-name="[Swedish Elitserien Speedway] Indianerna vs Dackarna Malilla | Viaplay Sports 2 UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Elitserien Speedway] Indianerna vs Dackarna Malilla | Viaplay Sports 2 UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTUw
+
+
+#EXTINF:-1 tvg-chno="412" tvg-id="Live.Event.us" tvg-name="[The Basketball Tournament (TBT) – Alumni Bracket] Boeheim's Army vs Hall In | FOX Sports 1 USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Basketball Tournament (TBT) – Alumni Bracket] Boeheim's Army vs Hall In | FOX Sports 1 USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzk=
+
+
+#EXTINF:-1 tvg-chno="413" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Astro Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Astro Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzcw
+
+
+#EXTINF:-1 tvg-chno="414" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | BBC Two UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | BBC Two UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzU3
+
+
+#EXTINF:-1 tvg-chno="415" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sport 2 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sport 2 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTg5
+
+
+#EXTINF:-1 tvg-chno="416" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sports Cricket UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sports Cricket UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NjU=
+
+
+#EXTINF:-1 tvg-chno="417" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sports Main Event (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sports Main Event (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzg=
+
+
+#EXTINF:-1 tvg-chno="418" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sports Mix UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Sky Sports Mix UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDQ5
+
+
+#EXTINF:-1 tvg-chno="419" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | SuperSport Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | SuperSport Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzY4
+
+
+#EXTINF:-1 tvg-chno="420" tvg-id="Live.Event.us" tvg-name="[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Willow Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred Women] Oval Invincibles Women vs Northern Superchargers Women | Willow Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzQ2
+
+
+#EXTINF:-1 tvg-chno="421" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | Astro Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | Astro Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzcw
+
+
+#EXTINF:-1 tvg-chno="422" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | BBC Two UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | BBC Two UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzU3
+
+
+#EXTINF:-1 tvg-chno="423" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | Sky Sport 2 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | Sky Sport 2 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTg5
+
+
+#EXTINF:-1 tvg-chno="424" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | Sky Sports Cricket UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | Sky Sports Cricket UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NjU=
+
+
+#EXTINF:-1 tvg-chno="425" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | Sky Sports Main Event (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | Sky Sports Main Event (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mzg=
+
+
+#EXTINF:-1 tvg-chno="426" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | Sky Sports Mix UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | Sky Sports Mix UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDQ5
+
+
+#EXTINF:-1 tvg-chno="427" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | SuperSport Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | SuperSport Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzY4
+
+
+#EXTINF:-1 tvg-chno="428" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | SuperSport Grandstand (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | SuperSport Grandstand (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDEy
+
+
+#EXTINF:-1 tvg-chno="429" tvg-id="Live.Event.us" tvg-name="[The Hundred] MI London vs Sunrisers Leeds | Willow Cricket (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] MI London vs Sunrisers Leeds | Willow Cricket (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzQ2
+
+
+#EXTINF:-1 tvg-chno="430" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | ESPN3 Argentina (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | ESPN3 Argentina (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzk4
+
+
+#EXTINF:-1 tvg-chno="431" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | ESPN3 Brazil (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | ESPN3 Brazil (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODM=
+
+
+#EXTINF:-1 tvg-chno="432" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Eurosport 1 France (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Eurosport 1 France (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzcy
+
+
+#EXTINF:-1 tvg-chno="433" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Greece (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Greece (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDE=
+
+
+#EXTINF:-1 tvg-chno="434" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Italy (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Italy (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODc4
+
+
+#EXTINF:-1 tvg-chno="435" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Poland (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Poland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTc=
+
+
+#EXTINF:-1 tvg-chno="436" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Spain (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Spain (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTI0
+
+
+#EXTINF:-1 tvg-chno="437" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Sweden (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Eurosport 1 Sweden (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MjMx
+
+
+#EXTINF:-1 tvg-chno="438" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | France 2 (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | France 2 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OTUw
+
+
+#EXTINF:-1 tvg-chno="439" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | M4 Sport Hungary (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | M4 Sport Hungary (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MjY1
+
+
+#EXTINF:-1 tvg-chno="440" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | RTP 2 Portugal (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | RTP 2 Portugal (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzIw
+
+
+#EXTINF:-1 tvg-chno="441" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | S4C UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | S4C UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Njcw
+
+
+#EXTINF:-1 tvg-chno="442" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | SRF zwei [Backup] (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | SRF zwei [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MjU4
+
+
+#EXTINF:-1 tvg-chno="443" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | Sky Sports 1 NZ (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | Sky Sports 1 NZ (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTg4
+
+
+#EXTINF:-1 tvg-chno="444" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | SuperSport Variety 1 (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | SuperSport Variety 1 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDE2
+
+
+#EXTINF:-1 tvg-chno="445" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | TNT Sports 1 UK (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | TNT Sports 1 UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzE=
+
+
+#EXTINF:-1 tvg-chno="446" tvg-id="Live.Event.us" tvg-name="[UCI World Tour] Tour de France Stage 16 | beIN Sports 3 Malaysia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[UCI World Tour] Tour de France Stage 16 | beIN Sports 3 Malaysia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NzE0
+
+
+#EXTINF:-1 tvg-chno="447" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] AGF Aarhus vs Lech Poznań | TV3+ HD Denmark (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] AGF Aarhus vs Lech Poznań | TV3+ HD Denmark (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/ODE5
+
+
+#EXTINF:-1 tvg-chno="449" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] AGF Aarhus vs Lech Poznań | TVP Sport Poland (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] AGF Aarhus vs Lech Poznań | TVP Sport Poland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTI4
+
+
+#EXTINF:-1 tvg-chno="453" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Ararat-Armenia vs Shamrock Rovers | Canal 11 Portugal (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Ararat-Armenia vs Shamrock Rovers | Canal 11 Portugal (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NTQw
+
+
+#EXTINF:-1 tvg-chno="455" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Ararat-Armenia vs Shamrock Rovers | ESPN+ USA [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Ararat-Armenia vs Shamrock Rovers | ESPN+ USA [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nw==
+
+
+#EXTINF:-1 tvg-chno="460" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Heart of Midlothian (Hearts) vs Sturm Graz (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Heart of Midlothian (Hearts) vs Sturm Graz (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc369/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzY5OjE3ODQ2Njc2MTgzOTE6Y2RubGl2ZXR2LnR2OmY1MDlhZDc5ODVlNzlhOWEuN2Q1ZDg0NzRiOGE3NGNjMDU0Yjc1MGYzMzdmZGY5ODZhOGFiOWJiNWU2MTM2ZDhkNjk4ZWU4YWIxNzFiOWY2Zg
+
+
+#EXTINF:-1 tvg-chno="463" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Iberia 1999 vs Slovan Bratislava | RTVS Šport Slovakia [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Iberia 1999 vs Slovan Bratislava | RTVS Šport Slovakia [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTA=
+
+
+#EXTINF:-1 tvg-chno="465" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Larne vs Crvena Zvezda | Arena 1 Premium Serbia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Larne vs Crvena Zvezda | Arena 1 Premium Serbia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTM0
+
+
+#EXTINF:-1 tvg-chno="472" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Arena 2 Premium Serbia (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Arena 2 Premium Serbia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTM1
+
+
+#EXTINF:-1 tvg-chno="473" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Arena Sport 1 Slovakia [Backup] (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Arena Sport 1 Slovakia [Backup] (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/OA==
+
+
+#EXTINF:-1 tvg-chno="475" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Premier Sports 1 Ireland (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Premier Sports 1 Ireland (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Nzcx
+
+
+#EXTINF:-1 tvg-chno="476" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Viaplay Sports 1 UK (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Sturm Graz vs Heart of Midlothian | Viaplay Sports 1 UK (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDUx
+
+
+#EXTINF:-1 tvg-chno="478" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sturm Graz vs Hearts (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Sturm Graz vs Hearts (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4556526.m3u8?txSecret=0c2249df27ef0d4dd4336add2d5d78bb&txTime=6A60EBD0
+https://pul-tenm.gkykp.com/live/sd-1-4556530.m3u8?txSecret=cc49a171eb2e809fef890ce61aeba320&txTime=6A6100E8
 
 
-#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Dinamo Zagreb vs FC Thun (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Dinamo Zagreb vs FC Thun (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="484" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Atert Bissen vs Győri ETO | M4 Sport Hungary (HOOFUT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Atert Bissen vs Győri ETO | M4 Sport Hungary (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cd8bb/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkOGJiOjE3ODQ2Njc2MTUxNzc6Y2RubGl2ZXR2LnR2OjI0NmJmZjJhNDM1MWQyMDYuYzA4NjY4NjQ4OTUxMGQxYmNkYTI0YTU3ZmIzN2FlNWFlYzJiYTJjMjM0MzM2NzAzOTczMzM2YTE0NjI1NWFmMA
+https://hoofoot.ru/stream/MjY1
 
 
-#EXTINF:-1 tvg-chno="288" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Górnik Zabrze vs Fenerbahçe (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Górnik Zabrze vs Fenerbahçe (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccbc9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYmM5OjE3ODQ2Njc2MTQ0Mzg6Y2RubGl2ZXR2LnR2OjUyZmZjMTAxNDg3MzgwZjEuNmNkYjhhMDA4ZmQwNDc5ZDQ1YmI1NGExYmRiMzAyY2FjMTIwZTM1YzZhYjM3MWZjMTg4ZDQyMDZlODdmM2M5Yw
-
-
-#EXTINF:-1 tvg-chno="292" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Lech Poznań vs AGF Aarhus (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Lech Poznań vs AGF Aarhus (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3ODQ2NjQwMzc5ODY6Y2RubGl2ZXR2LnR2OmQwZTZiMjc0YTYzY2Y4MDQuYjEzMGM2Zjg5NDZiMTQxOTI5MTYyZDEwODUyNjkzNjBiMDZmY2E2YTcyZWU1NGMwZmIxODA0OWMyZTlhNTRlYQ
-
-
-#EXTINF:-1 tvg-chno="299" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Floriana vs Drita (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Floriana vs Drita (FAWA)
+#EXTINF:-1 tvg-chno="486" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Bissen vs Gyor (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Bissen vs Gyor (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4590864.m3u8?txSecret=957ac4efbfd622af8bc87fcd76e5482e&txTime=6A60EC48
+https://pul-tenm.gkykp.com/live/sd-1-4590865.m3u8?txSecret=2c94217411189d79204571abcde9f5ca&txTime=6A6100E8
 
 
-#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Goteborg vs Levadia (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Goteborg vs Levadia (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="489" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Győri ETO FC vs FC Atert Bissen (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Győri ETO FC vs FC Atert Bissen (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live1.kinxie.com/live/72180132_8f9a7f52863dd4fb5ac0b33c82873bf1_1080p.m3u8?auth_key=1784667674-0-0-5c1aa614d1d434111f01284a7eab4fe0
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cda3b/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkYTNiOjE3ODQ2Njc2MTY2NDc6Y2RubGl2ZXR2LnR2Ojc5ZGM1NTVlNzUzZWE0NjMuNzJlYjFlZGZhYzBkMDM4ZmRiMjM0MzgwOWZjMjA1NjY0OGQ4NjUwMzdiYjE0NDE1Yjc3MjE4ODk1MDQzZjEyNg
+
+
+#EXTINF:-1 tvg-chno="505" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] NXT | CW PIX 11 USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[WWE] NXT | CW PIX 11 USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/Mjgw
+
+
+#EXTINF:-1 tvg-chno="506" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] NXT | CW USA (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[WWE] NXT | CW USA (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MzAw
+
+
+#EXTINF:-1 tvg-chno="507" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] NXT | SuperSport Grandstand (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[WWE] NXT | SuperSport Grandstand (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDEy
+
+
+#EXTINF:-1 tvg-chno="508" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] NXT | SuperSport Variety 3 (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[WWE] NXT | SuperSport Variety 3 (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/NDE4
+
+
+#EXTINF:-1 tvg-chno="509" tvg-id="Live.Event.us" tvg-name="[World Athletics Continental Tour Gold] Banská Bystrica, Slovakia | SportKlub 3 Croatia (HOOFUT)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[World Athletics Continental Tour Gold] Banská Bystrica, Slovakia | SportKlub 3 Croatia (HOOFUT)
+#EXTVLCOPT:http-referrer=https://hoofoot.ru
+#EXTVLCOPT:http-origin=https://hoofoot.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hoofoot.ru/stream/MTAz
 
 
 # --- END AUTOGENERATED ---
