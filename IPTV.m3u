@@ -167,10 +167,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="25" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" ,CBS Sports Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
-
-
 #EXTINF:-1 tvg-chno="26" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" ,Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
@@ -193,10 +189,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" ,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" ,Comedy TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts
 
 
 #EXTINF:-1 tvg-chno="33" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" ,Comet TV
@@ -259,10 +251,6 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 http://206.212.244.63/59/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="48" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" ,ESPN News
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
-
-
 #EXTINF:-1 tvg-chno="49" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" ,ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
@@ -307,10 +295,6 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="60" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" ,FX Movie Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
-
-
 #EXTINF:-1 tvg-chno="61" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" ,FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
@@ -325,10 +309,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
 
 #EXTINF:-1 tvg-chno="64" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" ,getTV
 http://206.212.244.63/80/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="65" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" ,Golf Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts
 
 
 #EXTINF:-1 tvg-chno="66" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" ,Grit TV
@@ -563,6 +543,14 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts
 
 
+#EXTINF:-1 tvg-chno="124" tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" ,Sportsnet 360
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
+
+
+#EXTINF:-1 tvg-chno="125" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" ,Sportsnet East
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts
+
+
 #EXTINF:-1 tvg-chno="126" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" ,SportsNet New York
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 
@@ -581,10 +569,6 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-chno="130" tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" ,Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="131" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" ,Starz Encore Classic
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
 
 
 #EXTINF:-1 tvg-chno="132" tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117217_light_360w_270h.png" ,STV
@@ -667,221 +651,235 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="153" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Helsingborgs IF vs Sweden Superettan Falkenbergs FF (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Helsingborgs IF vs Sweden Superettan Falkenbergs FF (CDNTV)
+#EXTINF:-1 tvg-chno="152" tvg-id="Live.Event.us" tvg-name="[5th ODI] New Zealand vs West Indies (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[5th ODI] New Zealand vs West Indies (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2Njc2MjE5ODI6Y2RubGl2ZXR2LnR2OjEzOGI2ODkyZjA1MzljZmMuNmFjNzA1YjBmNDY4ZDE5NmZkZTcxNGNiNGQ3NDhmZmZjMjE0MzAxMzg5NDdmNDNhZGFhMjE1NmY1NTY1ZjllYg
+
+
+#EXTINF:-1 tvg-chno="154" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Dinamo Zagreb vs UEFA Champions League FC Thun (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Dinamo Zagreb vs UEFA Champions League FC Thun (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cd8bb/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkOGJiOjE3ODQ2Njc2MTM3MjA6Y2RubGl2ZXR2LnR2Ojc5NmQ5NzU1YzgwMDBmNGEuNmNhZjA2Y2VhYTY3ODM5YWQ1N2JlY2ZiZmU0YmE3ZDQ5MWRmYzdlN2Q2NTE0M2FiNmM0ZDVlZWVlY2NmZTdhZQ
+
+
+#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Górnik Zabrze vs UEFA Champions League Fenerbahçe (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Górnik Zabrze vs UEFA Champions League Fenerbahçe (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccbc9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYmM5OjE3ODQ2Njc2MTI3NDA6Y2RubGl2ZXR2LnR2OjgyY2RkZDE0MDNhMzNlZTkuYzgyYmEwNWYzY2I5M2VjMzk5NzliYTFjZWZhMDEwMzNmYzhkYjYyMGJlY2NhODJmMjgwZThiZWQwM2YyMWU5Mg
+
+
+#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Helsingborgs IF vs Sweden Superettan Falkenbergs FF (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Helsingborgs IF vs Sweden Superettan Falkenbergs FF (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd876/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkODc2OjE3ODQ2NjQwMzA2MDA6Y2RubGl2ZXR2LnR2OmM0YzM3MmExOWM3Y2VmNmUuMmFkMmIwNGM1MzNlYjVlMmQ3NWJjMGFlOTU1MGViMDFiN2M2OWJlZjA1YzRkYzk0NWE4MWJhNzNkNWQxZGFmNA
 
 
-#EXTINF:-1 tvg-chno="154" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Lech Poznań vs UEFA Champions League AGF Aarhus (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Lech Poznań vs UEFA Champions League AGF Aarhus (CDNTV)
+#EXTINF:-1 tvg-chno="160" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Lech Poznań vs UEFA Champions League AGF Aarhus (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Lech Poznań vs UEFA Champions League AGF Aarhus (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3ODQ2NjQwMzcwMTc6Y2RubGl2ZXR2LnR2OmQ4NjliMjE4NTBlNTQwNGIuYzg2YmQ0N2MxNDM2NTk4M2FjYjI0YjBhMTZhNTAwYzgwNDM0ZjIwZmUwYTY5MGE2ZjQ4OWZiMWI4YjhkOWM1Mg
 
 
-#EXTINF:-1 tvg-chno="155" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Lech Poznań | TVP Sport Poland (CH-128) vs UEFA Champions League AGF Aarhus (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Lech Poznań | TVP Sport Poland (CH-128) vs UEFA Champions League AGF Aarhus (CDNTV)
+#EXTINF:-1 tvg-chno="161" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Lech Poznań | TVP Sport Poland (CH-128) vs UEFA Champions League AGF Aarhus (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Lech Poznań | TVP Sport Poland (CH-128) vs UEFA Champions League AGF Aarhus (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%2B%20HD%20DK&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%2B%20HD%20DK&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd711/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzExOjE3ODQ2NjQwMjg4NDA6Y2RubGl2ZXR2LnR2Ojk4MjUxNDlmMWQzMzJmYjcuZGRjMDNiMTk4MGM3YjM3M2FmNTBlNGNhYmE1ZDUyZDc3MDA2ZGU3ODQyZjI3ZmY4MGU4Zjg0YTQxZDYwNzllZA
 
 
-#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[All Soccer Events] Shamrock Rovers vs UEFA Champions League Ararat-Armenia (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[All Soccer Events] Shamrock Rovers vs UEFA Champions League Ararat-Armenia (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[Cricket] New Zealand vs 5th ODI West Indies (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Cricket] New Zealand vs 5th ODI West Indies (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd441/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQxOjE3ODQ2NjA0NTU1MDk6Y2RubGl2ZXR2LnR2OjA3NzdlMzU5MGE3ZjdkNjguZWRjNmU3NGIxZGE4MzJkZDU4MzVmYjY3OTUxNWY5MTFiYmMzNzBiZTBhNTc0YmEwNmVjNzA2MzI2ZmFkNDY3Ng
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2Njc2MjExNzU6Y2RubGl2ZXR2LnR2OjYwNGIwYTA5MzY1NDFjM2YuMWIzN2E4ZTY4YjM1NDM1ZDUyYzI4NTRiNzRhMDQzNzM5MzE3MjRhYmMwZGUxNTRiOTk3ODE2NWVmNWY3ODZiMQ
 
 
-#EXTINF:-1 tvg-chno="182" tvg-id="Live.Event.us" tvg-name="[Cricket] Sunrisers Leeds vs The Hundred MI London (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Cricket] Sunrisers Leeds vs The Hundred MI London (CDNTV)
+#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[Cricket] Sunrisers Leeds vs The Hundred MI London (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Cricket] Sunrisers Leeds vs The Hundred MI London (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2NjQwNDQ4Mjk6Y2RubGl2ZXR2LnR2OjAzMmQ4ZGI4MmUwMGI5ZjguOTUwYzUxZDBkZWYyYmM1M2M4Y2IwZWE4ZDAwZTk4MWVmNzBlNzg4YzMxNTgyNWIxOGJiMGM3MDQzZDExM2Y5MA
 
 
-#EXTINF:-1 tvg-chno="190" tvg-id="Live.Event.us" tvg-name="[Friendly Match] Hertha Berlin vs Mamelodi Sundowns 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Friendly Match] Hertha Berlin vs Mamelodi Sundowns 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4591015.m3u8?txSecret=b9b25ab687d044096f39a6bf3ec42f15&txTime=6A60DD48
-
-
-#EXTINF:-1 tvg-chno="209" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Diamondbacks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Athletics vs Diamondbacks (WEBCAST)
+#EXTINF:-1 tvg-chno="223" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Diamondbacks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Athletics vs Diamondbacks (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=xubKrtDpb0CT7-4PGwWLhQCez-UOyvTG4qRbOc0X4Yg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC%2F&expires=1784664037/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC/134.m3u8
 
 
-#EXTINF:-1 tvg-chno="212" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cardinals vs Angels (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cardinals vs Angels (WEBCAST)
+#EXTINF:-1 tvg-chno="226" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cardinals vs Angels (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cardinals vs Angels (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=BHknb5-F_UZB45z24qmB537SZ4wRuFRbvId8er64OkY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%2F&expires=1784664037/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og/106.m3u8
 
 
-#EXTINF:-1 tvg-chno="216" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Dodgers vs Phillies (WEBCAST)
+#EXTINF:-1 tvg-chno="230" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Dodgers vs Phillies (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=w9cvipHPOKAtXwearCzCfrFvP7ouNMc-8RtXC3K2__I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37%2F&expires=1784664029/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37/114.m3u8
 
 
-#EXTINF:-1 tvg-chno="217" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Giants vs Royals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Giants vs Royals (WEBCAST)
+#EXTINF:-1 tvg-chno="231" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Giants vs Royals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Giants vs Royals (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=fFWjKwv7jUyO9Al9aE4W4-PMykzSsIf3ph-uZFw0e-g&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ%2F&expires=1784664033/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ/117.m3u8
 
 
-#EXTINF:-1 tvg-chno="219" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Marlins vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Marlins vs Astros (WEBCAST)
+#EXTINF:-1 tvg-chno="233" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Marlins vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Marlins vs Astros (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=7RfmkW3E-q6QgM4zbd5UyEuMCq67w9mg4Sg5g5NuTe8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1784664035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
 
 
-#EXTINF:-1 tvg-chno="220" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mets vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Mets vs Brewers (WEBCAST)
+#EXTINF:-1 tvg-chno="234" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mets vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Mets vs Brewers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=elNbq3MQlNlYit_dx42ni3SrC7mOeLbr51jcVPTxTj8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1784664034/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
 
 
-#EXTINF:-1 tvg-chno="223" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Nationals vs Rockies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Nationals vs Rockies (WEBCAST)
+#EXTINF:-1 tvg-chno="237" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Nationals vs Rockies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Nationals vs Rockies (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=X7hFnZ-uWMHWcCccryb3i_WdsrW7bL_qwstFEgiaw-c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F&expires=1784664036/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U/119.m3u8
 
 
-#EXTINF:-1 tvg-chno="225" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs Red Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Orioles vs Red Sox (WEBCAST)
+#EXTINF:-1 tvg-chno="239" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs Red Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Orioles vs Red Sox (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=-2BkQ_bs1VkxiNl-jjekiiufLzmqlEYpkdXiuCr-7Y8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%2F&expires=1784664031/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE/120.m3u8
 
 
-#EXTINF:-1 tvg-chno="226" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Padres vs Braves (WEBCAST)
+#EXTINF:-1 tvg-chno="240" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Padres vs Braves (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=CbkXEN8CuBQLjuVK2A3H6mpOe18y2HOczWOPNdrLRZk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1784664032/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
 
 
-#EXTINF:-1 tvg-chno="227" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pirates vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Pirates vs Yankees (WEBCAST)
+#EXTINF:-1 tvg-chno="241" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pirates vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Pirates vs Yankees (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=YwT3Mbo8Ed8eol7Er3nuiTwO1en6-OEhu0PC0mw1QD0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F&expires=1784664029/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG/124.m3u8
 
 
-#EXTINF:-1 tvg-chno="229" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Jays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Rays vs Jays (WEBCAST)
+#EXTINF:-1 tvg-chno="243" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Jays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Rays vs Jays (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=aUz8ym6kFKRP-epZqH3ehFc0oQh_ci6cIhlS_MUtsFw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F&expires=1784664030/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1/125.m3u8
 
 
-#EXTINF:-1 tvg-chno="230" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Mariners (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Reds vs Mariners (WEBCAST)
+#EXTINF:-1 tvg-chno="244" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Mariners (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Reds vs Mariners (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=bqb5bX7wJbLg5Y0nohO2taKrSpdx-eMQ2ev6lPgR_RI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq%2F&expires=1784664038/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq/110.m3u8
 
 
-#EXTINF:-1 tvg-chno="235" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tigers vs Cubs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Tigers vs Cubs (WEBCAST)
+#EXTINF:-1 tvg-chno="249" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tigers vs Cubs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Tigers vs Cubs (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=vMcvoZEb4a1vBOx96l_AlALo5gSqJvV-xWYhB-__Ry8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH%2F&expires=1784664034/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH/131.m3u8
 
 
-#EXTINF:-1 tvg-chno="236" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Twins vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Twins vs Guardians (WEBCAST)
+#EXTINF:-1 tvg-chno="250" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Twins vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Twins vs Guardians (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=Fza5iU0zLtB1dqI8b_o2HYnBiw5tg9n_nRyaoEhRpYg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1784664028/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
 
 
-#EXTINF:-1 tvg-chno="238" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] White Sox vs Rangers (WEBCAST)
+#EXTINF:-1 tvg-chno="252" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] White Sox vs Rangers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=OVB4pnYCYQjXahwFRaFr1Y4ZytwbNhov_usHkpn_1zg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1784664035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
 
 
-#EXTINF:-1 tvg-chno="239" tvg-id="Live.Event.us" tvg-name="[Motorsport] Dackarna Malilla vs Swedish Elitserien Speedway Indianerna (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Motorsport] Dackarna Malilla vs Swedish Elitserien Speedway Indianerna (CDNTV)
+#EXTINF:-1 tvg-chno="268" tvg-id="Live.Event.us" tvg-name="[Motorsport] Dackarna Malilla vs Swedish Elitserien Speedway Indianerna (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Motorsport] Dackarna Malilla vs Swedish Elitserien Speedway Indianerna (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc36b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzZiOjE3ODQ2NjQwNDI5OTQ6Y2RubGl2ZXR2LnR2OjBmNzIxZDA1Y2U5YmVhMTYuN2Q2NmY3ZWExMzBmZGI4N2RhYWMyYjhmODZhZjJhZjEzMjMwMDJjMTVkYjYyZTQ0YTViOGQzMzI1MWE0NTk3OA
 
 
-#EXTINF:-1 tvg-chno="242" tvg-id="Live.Event.us" tvg-name="[Swedish Elitserien Speedway] Dackarna Malilla vs Indianerna (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Elitserien Speedway] Dackarna Malilla vs Indianerna (CDNTV)
+#EXTINF:-1 tvg-chno="275" tvg-id="Live.Event.us" tvg-name="[Swedish Elitserien Speedway] Dackarna Malilla vs Indianerna (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Elitserien Speedway] Dackarna Malilla vs Indianerna (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc36b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzZiOjE3ODQ2NjQwNDM4OTM6Y2RubGl2ZXR2LnR2OjQ2NTUzMTcxY2NmZmQ4MmIuNDlhNDU2ZGJiNTNhMzJmNDc3YjBhMGQ1MWRjNzhkZDA2M2ViNjhjNTAwNWRiNTEyMWY0YTQ4ZjkxM2IyYTE1Yw
 
 
-#EXTINF:-1 tvg-chno="243" tvg-id="Live.Event.us" tvg-name="[Swedish Superettan] Helsingborgs IF vs Falkenbergs FF (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Superettan] Helsingborgs IF vs Falkenbergs FF (CDNTV)
+#EXTINF:-1 tvg-chno="276" tvg-id="Live.Event.us" tvg-name="[Swedish Superettan] Helsingborgs IF vs Falkenbergs FF (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[Swedish Superettan] Helsingborgs IF vs Falkenbergs FF (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd876/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkODc2OjE3ODQ2NjQwMzk1MDY6Y2RubGl2ZXR2LnR2OjA2MDU4M2Q2NWY1N2RmZGMuNjJiM2UwOGQ3ZDE3NzI5YWY2Y2YzYzczNTZlYWY0OTE0Y2FiZWFiY2RiMzJhYjZmMGUxMDEyM2RkNTNlODRmNA
 
 
-#EXTINF:-1 tvg-chno="248" tvg-id="Live.Event.us" tvg-name="[The Hundred] Sunrisers Leeds vs MI London (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] Sunrisers Leeds vs MI London (CDNTV)
+#EXTINF:-1 tvg-chno="281" tvg-id="Live.Event.us" tvg-name="[The Hundred] Sunrisers Leeds vs MI London (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" ,[The Hundred] Sunrisers Leeds vs MI London (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ2NjQwNDU3NTQ6Y2RubGl2ZXR2LnR2OjlhYWNkNDY2YWYzM2QxMmYuMzNlM2I3NWJiMWM4YzE4MDk3NjUzYzFjYWNhMzJkYzM0YTM4MjM5OWY2NDFjM2MyNjk5NGQxYzA2YjY0MGU2ZQ
 
 
-#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Ararat-Armenia vs Shamrock Rovers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Ararat-Armenia vs Shamrock Rovers (FAWA)
+#EXTINF:-1 tvg-chno="282" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Aarhus vs Lech Poznan (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Aarhus vs Lech Poznan (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4586116.m3u8?txSecret=aee22d5d2447ebde858020c809722a18&txTime=6A60E450
+https://pul-tenm.gkykp.com/live/sd-1-4556526.m3u8?txSecret=0c2249df27ef0d4dd4336add2d5d78bb&txTime=6A60EBD0
 
 
-#EXTINF:-1 tvg-chno="251" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Iberia 1999 vs Slovan Bratislava (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Iberia 1999 vs Slovan Bratislava (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Dinamo Zagreb vs FC Thun (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Dinamo Zagreb vs FC Thun (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4586108.m3u8?txSecret=a8585bee62c7e243b43d227500c3400d&txTime=6A60E450
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cd8bb/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkOGJiOjE3ODQ2Njc2MTUxNzc6Y2RubGl2ZXR2LnR2OjI0NmJmZjJhNDM1MWQyMDYuYzA4NjY4NjQ4OTUxMGQxYmNkYTI0YTU3ZmIzN2FlNWFlYzJiYTJjMjM0MzM2NzAzOTczMzM2YTE0NjI1NWFmMA
 
 
-#EXTINF:-1 tvg-chno="253" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Lech Poznań vs AGF Aarhus (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Lech Poznań vs AGF Aarhus (CDNTV)
+#EXTINF:-1 tvg-chno="288" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Górnik Zabrze vs Fenerbahçe (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Górnik Zabrze vs Fenerbahçe (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccbc9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYmM5OjE3ODQ2Njc2MTQ0Mzg6Y2RubGl2ZXR2LnR2OjUyZmZjMTAxNDg3MzgwZjEuNmNkYjhhMDA4ZmQwNDc5ZDQ1YmI1NGExYmRiMzAyY2FjMTIwZTM1YzZhYjM3MWZjMTg4ZDQyMDZlODdmM2M5Yw
+
+
+#EXTINF:-1 tvg-chno="292" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Lech Poznań vs AGF Aarhus (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Lech Poznań vs AGF Aarhus (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3ODQ2NjQwMzc5ODY6Y2RubGl2ZXR2LnR2OmQwZTZiMjc0YTYzY2Y4MDQuYjEzMGM2Zjg5NDZiMTQxOTI5MTYyZDEwODUyNjkzNjBiMDZmY2E2YTcyZWU1NGMwZmIxODA0OWMyZTlhNTRlYQ
 
 
-#EXTINF:-1 tvg-chno="254" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Mjallby vs Lincoln Red Imps (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Mjallby vs Lincoln Red Imps (FAWA)
+#EXTINF:-1 tvg-chno="299" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Floriana vs Drita (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Floriana vs Drita (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4586110.m3u8?txSecret=42ec0a7b58d691227415b501df8f11f2&txTime=6A60E450
+https://pul-tenm.gkykp.com/live/sd-1-4590864.m3u8?txSecret=957ac4efbfd622af8bc87fcd76e5482e&txTime=6A60EC48
 
 
-#EXTINF:-1 tvg-chno="255" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Sabah Baku vs KuPS (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Sabah Baku vs KuPS (FAWA)
+#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Goteborg vs Levadia (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" ,[UEFA Conference League] Goteborg vs Levadia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pul-tenm.gkykp.com/live/sd-1-4586112.m3u8?txSecret=dcac588d4ffdfb5bccd82d6d003a2144&txTime=6A60E450
-
-
-#EXTINF:-1 tvg-chno="256" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Shamrock Rovers vs Ararat-Armenia (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" ,[UEFA Champions League] Shamrock Rovers vs Ararat-Armenia (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd441/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQxOjE3ODQ2NjA0NTY5Mjc6Y2RubGl2ZXR2LnR2OjlhNWMwM2Q1YjlmZDllMDEuYjY2YzgwZWQ0YzAzYjQxZmViOGE4NGUxMGUzZDkwYjNhMzUzNjkzM2RhM2NiMzk3OTJkYjg3NzdkNjA4Y2IzMQ
+https://live1.kinxie.com/live/72180132_8f9a7f52863dd4fb5ac0b33c82873bf1_1080p.m3u8?auth_key=1784667674-0-0-5c1aa614d1d434111f01284a7eab4fe0
 
 
 # --- END AUTOGENERATED ---
