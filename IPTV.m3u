@@ -423,10 +423,6 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://206.212.244.63/123/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="89" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" ,NBA TV
-http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-chno="90" tvg-id="KXAS-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" ,NBC
 http://stream.cammonitorplus.net/1765/index.m3u8
 
