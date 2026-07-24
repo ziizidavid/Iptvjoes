@@ -255,6 +255,10 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="47" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" ,ESPN
+http://206.212.244.63/59/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="48" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" ,ESPN News
 http://41.205.93.154/ESPNNEWS/index.m3u8
 
@@ -409,10 +413,6 @@ http://206.212.244.63/114/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" ,MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="87" tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" ,Nat Geo
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="88" tvg-id="National.Geographic.Wild.HD.us2" tvg-name="Nat Geo Wild" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86880_dark_360w_270h.png" ,Nat Geo Wild
