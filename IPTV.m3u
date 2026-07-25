@@ -599,10 +599,6 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 
-#EXTINF:-1 tvg-chno="135" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="Telemundo" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" ,Telemundo
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
-
-
 #EXTINF:-1 tvg-chno="136" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" ,Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
@@ -659,61 +655,78 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="150" tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" ,Willow Cricket
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
-
-
 #EXTINF:-1 tvg-chno="151" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" ,YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="265" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Angels vs Giants (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Angels vs Giants (WEBCAST)
+#EXTINF:-1 tvg-chno="156" tvg-id="Football.Dummy.us" tvg-name="[American Football] Calgary Stampeders vs. Winnipeg Blue Bombers (EMBDSPRT)" tvg-logo="https://i.gyazo.com/52d415fe2f1c6acfbbc4a928feb2f7ab.png" ,[American Football] Calgary Stampeders vs. Winnipeg Blue Bombers (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://vip.streamapi.cc/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSsVNRxcewV2W2EFDEp4FkAXKxlTBzMHOQQ-DHEwAQdofz8aezY9ZDUUGnV1NRVXaxIAV0g9JVY0WhACS1A-Zg96MRVKAy9nMkAieVYuKw5yHyVxYjAhWntfHHYfWxRVbTIXOGEvIlgTL2RFSSEBUXFIN0ZLIGZhLwQ_dVUqKH0PejUYC1YvdnkZBAVuDGkLYQQVZlYxcQoYByNLHiYsYVImQRx_KAB6AVNjcFZMfElWKT4GVxQSQWteNltyLghQWXk3Kl40Im4rIGgCdh0_a0cEdwZmDxZeMTkzfEsJCFhsBCYoWywgEnI0P3wESg4cETI7fFckAEhnGBtXaTZ-YBMuPT90GHNAdx8cYWYiAgxMJQBSQT0HeywhKwFIFTRScxAVOlQWO3Y1ORd3aDZ5a0UUYVNeEwBxEwAiQRIQF3J8BhAYUB58VQgPI1R3Nh1NEyMgcHQ8LlU5Oh4EdBtjBGgdNw9gBXlbdgxnf1gWOVByRChTcgMadx0LMX5JKnVYQCwEFFVdDF4RLwRTT0o9fhVGFgdCPSJZEA4zRWE3AgESLDgDXSwcZycPZWJNOx9zVzJlBl0lIA03VQ9JZwQTdw96MRtrIy1wGDooVXgJaQthEQcETQMHYTtaY0RvJ3ZmZ3odF2sIEQ4KLwZjeCl7DlQTOXJmJCxUJF4baBIIA3p-bUEfZEt5dTojKEpLFjwMExtqZG41Jx1sKywJShY3Bh4lBG5RA3kDLSAlVllPaQtlBiUBVS4OYT86EXdpLCJxHhs5bFAHfF8VFQlZaDIaXmo5NHlhImVsKRwqFBQhA1xuADQdBg8cBTUkNGMXEgZtFBsldhU8YHxnSGh3agUQWlMcIgtfS3lxBUI6U0cAfkgTVWBybiZgXRE1LEQDUQBZT3saLFlZHW8CB2gEVw4YfGQjZ2RzFCNtFVoXd1wGJ2ATfkYMVCozdS4yZlVpSBxJUyNnQEVSZno0XiB7ayAsfH0cQxFENx9fZUQTf1YANQB1SWROfCcyShNcHHBCGSoPGy0aYFA5PXonLhsEdxs_QWoBZ2RdEBodbC8cAUsEf1FYLEA8XjtuBQYfZUJ4DyJhbEZiTREBJFYpJDZ_dzonExgOJDNhJjFGM0Y9A08MJRwRNhZ5c0QAeTsAaGJVIAJ7WykiKWEALUE3Iwt1Tyg_f3UEJgETLxNBBBgNS3IGcmxibUEfWxsBeA0gC0cRNQd1egQhblYAEWomKzdgaToDc2N7GXwBLChwLEUbc1YOK1JAABZjcBY3dSw1AgVfVSBCcCdHPGQPBmdxOwVjSQg9YXpIMEdvUmZ6GCI5WANRAAdwbUEfZF0IEnI0KUtoCQtUVDoZQEkzAXEcOBNHbAIKYF9tQRt4H356CDgIc3khdFBTAydYbUclUhwFF3Z_Ug9lQzFKOgoeBlwUGSdfb0gNTwZCEEB1Ag1eEF4JYmJVBUUPejUpASAgUTY-ZHdpISVOczMVQhMDLQwJD2hzcFYrRkM6JTMFHixdNAI1d2cuJW1oHHcGZiEeejYfYnhQAgV8cjIJamEvclQmTjdlFUsJc2sfPxEWMQd1LSY1BHE7FHhICz98ASg_Uw0DJHZZGgloTBs8UmYeFwwmFyoCA1EAAkweSw57VnsDeDsicBk5dHJwERV5XEAaaD0mHARWBT5AbDkKI1wHHU03MShZRDQoUVkmOlMWGzZQNBUPSXw7cE9jCzwPZyUSEnI0H11EEQRfcxE1RUJCbFYOGzdkSQpzWg96MQNpJyBmMAUXalAaOElWCTYRFjE-ATw-PUlSOw13EhoWbXwrc05wIx4BRV1-e2ERH1JwHhNibhkPBFwoFWUbDwU8dC8CAWVEExcTPnhTEBUXZ29OFXczCQhESycyUlIfRxN0Bn5zKhQYV29MKQp5HANDXA8NVwgiOWRAFiBzHH0qfAEoPXYzEQB2bgt8Y0s3P01UQmd3Mw8tZg&expires=1784961300&token=32c7d23b7efd06f061cb03ca130fc22f3fdb42a8a89f0a45afd9fd974bcf9447
+
+
+#EXTINF:-1 tvg-chno="165" tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="[Australian Football] Carlton vs. Gold Coast SUNS (EMBDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/afl.png" ,[Australian Football] Carlton vs. Gold Coast SUNS (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://vip.streamapi.cc/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSkVNRxcewV2W2EFDEp5FkARIFgJEDdePVI9WEJeEWVteTFufy0DbzYlJFBqPxh0eh4aVnYUOHIvAzAGbFArBVIYVmtxIjJaJCYjBFIzO29ERwNbUzISfysPfwNgJH8OeCs0I1cPGXYpGQJrFA8kYG4YAAxBBTtvbDQrWEMnNX9EA1ZrdS9zDyQ3aF10TwNNBkIQQGMlJn57XxxbXxl-c0AfCzcBKwdxCzsQFxM6Ow0TACdtSEUnWxgUbwJKCRJ7ZC4AaHcdJm0pLzpkGEgbXFAiNkABRRZAHAs1ZU8uK1xkJjUVZh8jdStTY3BPNmkLYVVgdk0_J2sKHWNEZwUJYxIeSj99CAxBeAFmW2wrC2NtRT1hdhExcg0uKH1XUyhAWCwqAVUNLE8wNyR9Zz0FdxYiNFAXEC5cCiQXXF4TckV7DCUXUC8oR3cUGUtTHhp3cgRiZ1YzBHMkAD1mYlYUTg96MQx3OBhcchpnSBc1NVdWGQMAXhACTBAiGVdNLCl_GSYZPUQjLQQHHwBrdBkiC1I3ZAJgRDJyKAwUUk8XAWJuf0s9eDQldRcmNksVKCB6cDomdhNFLWoqWDMJcxsHUX8JVmtxLBN6JjEJflgfFUgGQhBVcUc9TA00PwYfFg9yGhg-a10gE1EaTxtrdikVaBRHJVdPMRZrJgEgAmc6cl1vBCd8ASgcEnI0K2dYACZXU0ViXxwnHnotSGh3UFsqQ1t4RzREWSlackI8ZFUcNA4GQhRCU0IlYQQ0O2ZtJQl5Tg9HCnlbKF53HgRReRMFc3UXG31COhFtbzktQFZGdHRvIjcRdCp-VhdEJGBEKXpTaSRlX1M1ZXNqKWMUFCUKUHwkCg1iPCcScjAUBkoZKkERAWIRFjEeaWoIFWlQFmMEbCcWalobIQAWLhNDGE46T3c1FWcRJwNbKTgRBmslPFNLHkpvBjssczg0P3YWHwQJcwAiZxEDNR1sLzACXCkLdUACJA0DJjxuFB50AGM1O0FaSQQNEg0MaDgfFwBgIiJMRnFCPFpXKGA2OzZqa04aWlAIG0URJy1fEEhoc2BTK1ETLwE9AAsmYmVEF1sVCBVOTSgdAhQOYU4uAy14Si0Xb0ttQR9kBBl_OgciAk1JIk1KVWByYDoDCwosP1wUMDV1bgUCOGIeGVkmACZnez8iaVA2BEBQQmNgGRQARHEZElMeEjt8ASgjQgo5HGR7DXx0aDwLQFctJk8bPyJ3SzIJb28NOmpZS3l1IzE9AWs5O09EGzFEYCAAWT0gKGl-Vz8ATDwpNgcLHFYNJmB_dSkkSVIoCwxGBB8dbC8cfkUKYwRseSl8ASgcBANTY3BZAQVIZB0lfm8DOXwLJBhkbxUMV2YeBnwBLABGdTsZfHg5FGAbGSJHURsdCC8HGFlrJB8HYxsaIAoNckcNHQVdVxUCCWIGdwZmAwVNBwsUAnUwAgBpO1ZrdR55eSsQJ3oUPQRgSgcCd2MBY0wnWQ1TFCEQA0c4GitlBH1HJxwlRkU9Cm9KJBlYAUUWbhQvMkMeKjBXaQIrI0ldGXZ5FTcKRy94CmY6GltJUmZ-DSApeklWEW54BhEaf0t5cTQSHEdUPDRbZiE9X0oRFlEdWSJLVlBjBGx8FQ8LOQMPcEJpf1I6dHgbOwFVYzosDxA9OXpgVjZQUj41KEoUJF4WDCZ1WBMpdUcYKGJMEGZUPAUwSXMbHG4cMToafDgffBlTY3BvFylQaxYCVUMGMg1mAwpHSzYpXx8kVmtxNBF-KychQWcgPVtXACdNQFJmfjRUOGJBGzJuYQlLC1ZaBHJ4D2FnbksoHBEyEFVpEQBRGTdqRXNWPH15G0IeRQsMdglAdABjXX5_FxphUWEkHwEfIjdVdBYrcl4sCw4HJAxfdTI7UGgdAg1GQwhYdQAsQAcCDH5FNiBDTA1FbGpLeXE2NyJVcDwDShMqOnNJDiQNbSI3U1E0&expires=1784959500&token=fb262514d2e728a030a4532548978e57e45a3487988be227ac146a24bed109e6
+
+
+#EXTINF:-1 tvg-chno="166" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Los Angeles Angels vs. San Francisco Giants (EMBDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[Baseball] Los Angeles Angels vs. San Francisco Giants (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://vip.streamapi.cc/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfOxxcewV2W2EFDEp4Fk8RMxlXEWtfNwlnZnUkd3QdBDARaxgYQiI9FmZsISJxQSIxWG4GOlJpJ2lcFRsWExgKPyBeChtFdgUaRXcfe2hMBxdyYwI2HWwrHQgeMSVxUCwSC3IHJGQZQyZaeDUkaxsVIFtzRQ1JNwgeQm8NDRMYDjJhCwoKDi8jZn1VXX57VzcARmJSZn40FCAJYwkRTkR6NhV1JQZ2ZUQTRRVIPEx6HGBHRzEtDW0BMGVrLSBFGwwANGkHElwWT2FlRAseXVdVYHZcNTJXCgQXXEwtKHBmHQIxcQVuBQIYHxcTOmkLYRkaR3cjJAErLDx-c1sQD0wGFR5FVjwAKTsCdXs2eVZ2IjRRbiQXShIcal9QESJvci4QPkseCkIPMBR7b00eX0dDNU5AIx11MxUqBVUyAmBkKzI6Q1kpfzkEN2RvKTgJcAIWZG8NOV8JKW9jXkZ0dH8MJQpYXCcBOkAcS08NJWgXCjViUDkbezgGFV5vUChcTj8-PwApImYZIzBcEwkLDxU0YVJuATV2PQQudnIncQ5OAyk3cTkbUDlCAV5iKwZNYUdgTXYDYVFmOCJwQTYHExgKMQF-CAxvDA82a1BdfntCJWJdUCQNXWlUL3hiUxZ7GCY9AVU0cn0ZIQBrcE97TkAbFHZ3DzhCbSwDBU0mCmIPejUOFlwJTRUPKVhPCHkJSEgCfmYEcQoYG2JdUxJ2Akc_RDteXH9aFgI1ShZdfn9VB2dFfS0NWQkmHH5pBwECeQJGOlpZI2IjLjp7ay4rcGoWH3FxRgBPLx1_A2QmLHJiDzdsUjl5QhITAARLMhgOSAcQBW9DEAF7Xxx9QDUqT34ZITUWXA1ydB0wVFlKPQkGQhR-dUMxdwYbLxQUJSlTGSEGMwQ4E3UxT2dEVywJfnBFAmNHAAFzaSAcS0MCEA8cfSY-dxYJWQRBNnoRKDxJcEUmVQFFFlJtFxB8ZQkMYX54Oy5qOiMScjQcRVkBdW8aRihsdBEmdW8rG1VcD38HTyFKOmQYBlAYPGdkQgs0cFJFAk1DOXEKHCtqXEFaIUROexY0Zkt5cSlCIWtWFhR2FUArAVIHOk8XARRgfwJjBGwfGQt7FDpEcBpgXFURaQtlNB9jFyMVXTNfCUJlJwtHSxkDC10IPUAVLBZccQsKb1cEZwN8MC1iKzogZUNXHH4PejUxRiQEehYsJAJsMwBgVwMIRlMyBkAYAAt-fyYDfxkiVmtxDQxbczwQRVcfJ1pTNAVgRRQZSgY1bkgQBTJsRXwWDlIjGwYNIgBaUQkUYBsSIX8BRRZ-EQ4zFBQld2wPejUOAC1uBQIOKHtQPyFOaTsmWWAiHXoLJCx7Ry8QQw96MRJCWwZ_Di8QanhAJUlQBT59FAY-ejYgHWgXKhVfU3EQYEMjIGMvADx8ETk6HBEyJmVRLjJ2bT4JdRAgNRMYDgNrfQUtQQhDFHp4ETtpYDckA1AOYG88XxhnEw42X1geGW9DCSFDNBIUdHcRGHJPVWB2cj0WUCxVE0dHIAxuUDJAC3JXKFF4EAYGEj0GcUwddwZiJBlLFQJvZn4xCFRpBFZrdRovejUDFUpDPR1WSB40dk00YEAkHWkUFCVyUHxwJBELXn8PDQUTCmBAB2pCNx9MEzkEWxUrb0FAGzBwWzEJNlo4MUAHDzpXbRwkQ3UYNQZIFTxSJjgia35VP39pByUNeDduBQI4PldIMCppQhcjUhFPOmgoAA9eT1YqExgKKQN6BRpHMzAJQ0MMPExaFHcGYh1tWg0KIkV-KAcOeC1HFnZWMgcVOWJWBEoOe0I9NGBNMA4IKjhvS20wFQdtPhYecid9EnI0dABnTCYKRjUBfx02G1U6Py9cYhciTn18OR5bWw9dIj80fBUdf2NPISVMXC47bhEOD1dTBQMAHxFWa3UYCkQnJxV9UkgWUWQdK0QRRBtVPBoN&expires=1784955900&token=aab575f249e197a8ede38db4880f64e70d06e738d44b033f5588986ac805d719
+
+
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Atlante vs. América (EMBDSPRT)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" ,[Football] Atlante vs. América (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://vip.streamapi.cc/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8Dg5CZhtFAzgVPwA_DkEKIgt9GzRocVkHdAguJ2FUGgd-dz0LWmwVBlsyJytfTFQMBUd7CwkWXAl7ORs1YlNOP3JUJjUDdRgjfRgqL1MDUQBxE3AhOnQUL1YSNzhdciF5TkspH1x2TzFKMTpoaFcKI3JZAR0SFlwNdnhONXMYFxkObAR3BmYDE2osK38DYAk_TBINGQ5LAHlyDDAaf2BdfntURGJEUS44Ci0OHEgTUCpcfgU9P0BfD0QtLDhrSi51CXQVIWZAA3EKHBUYV0k3L3tHIj03dSIeRig0OhcTOiJ3BkIQERY1PXAtPg5BHxYHUGUdSw8KCAVRBwBpRRYRAWpkKhwBSyIGXjsnCXJULzcGRD4BPWo2LVQnDiFzVDcKfGo-Z2ZCE2dfJAkOeGsOPkYeOyIdZSAodiMGZlBpAT5fdT4DQBQkJnwOJiBcQTQCA3gwVmtxOw9hEx1jXhcCenRaHidddUMuXwgZFH5lBS15RQFAN1kKPHomRRZbcCEZWE1CI3MSQRALOCcsUGgAL0JtHDduCwoAbS40BmJGAXhpTzMBflA1YwonPy4ET1sTTmsvJhgWXAl1GDs3dXk0NV56AXcGZhYBCDcZCWhDVH9DYwxDCX5cJXkYEAsLayEbaHohZQNTFD9-HD4iXVxQB28eIzYVZ0t5cRdTY3BbLTVBSR4iARQcbGgULykUFCUwDkY9AmkHAzwAIhtjBkwuOF1bR3cGYgEjDS80AGhHNA1wZQcXHgc9AQIjH2ZadBsUUmo6BFNtPjJ1GzhrZVESNhMYCjYzdyYMc3UXBgBUKiloFRoYYBMcI3pvJm51H0Z0cGYuJTVKOhplLFNjdGRMJ1hFCGBFFFJmfhQ8blRpOzBDD3o1NlZdIkIqQQdqYwl1D1UGBnFjJGFoCQ4tZG1UC3BQLRIPClh-YicyKXBPPHtea0ACRFQkYUw_SGhzTFA8fGcLGRNkOnt_Ny8FWgRKDnRUCCsNck5iQgY9PENrUgB3TjIfYAILIg4jISd_RiAGD3UTIUxtBmFoJwoUFBQhAAZHL0o-QQp4Ui0jdABnEXhJegc8bGtBZEFrGypfUSoqeHsREnwBKBxdEj4rQ1JIIAhNBDsRFjEQdQleDnBDDnRlWQs3FEIPGkcSGDdEVi0Wfk0gIXJyAyANaTUdSHwWEUx-LUcDe0t5cSgDG31sLhZMEz0ZeH0DJ2IsGh9jXiUrZ2URNhx6XSEScjQydU1LBnhUBjVfRwcQbwoMOXxUOx4CU34VLWkBf1IXFxxiEDUYaEsAI2x9TzZLFUhoc2AsJV8PejVoaUt5cRdFEhcTOjRAagEVWVM9H0wzKQ94ZDYPQGApPw9GS3l1Cwdkf2k2FXh7KWpdVAQhVBddK1tkCwtxc3k6CloXclR5BhxZdRc6VG1AE0IBRRZMDxgDV2hQFWVufjAqFlwNR3I4OlRXMHl8ayk7Q3Q0E05pGSMFcQF0dHx9HilaHB1ddgY2WFUMKHxlJjtgbxtxChw7EHNOEX5_XCkwE2sUMQQSN2hRR0AqbhdDF35sGDkdbCsJfFUoKQN9ECEXUS0HEnIwJVZsDTl9WxIXZUscOl4cBBkFXhk2BQ96NW1VOHNgCE5hBhk1P3sbMWp_dxYTdSZaFGFFKAADWi4LL3UfMk0vHwdIVj81UkY8NlxeITxfbAE4WUwbE05wEEUgei0EYRQ9CBcTOgJWRhkaUnQWM0k4WGJfdhUrY0UhRjUWXAltGj86Y1ELCmFSEiZEUQ4wHWwrMAhEMCFOXhA4GAs8LgMPM2lLES0DCkdVYHZmFhleCgQdaxYXEwNQAyAKAik9Ugc3GAQESg4cETZmXhcSEWsVVBt-SwcUQ0cMBz1LOX99Bx5kdksaBVxtRDcHfhsFTyYVA15wLCVjTD0VHAVbEhJyMCdzUh8dfWwDYm5MMDlBLlhpfksBMWE&expires=1784957700&token=e6123714fd146118c9a0a3de401887a66075e450dfdd7078d2b1140e0c7371fb
+
+
+#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Tijuana vs. León (EMBDSPRT)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" ,[Football] Tijuana vs. León (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://vip.streamapi.cc/vip3/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8Dg5CZhtQHj4VMgg1DkEKIgt9GzRocVkHdAguJ2FUGgd-dz0LWmwVBlsyJytfTFQMBUd7CwkWXAl7ORs1YlNOP3JUJjUDdRgjfRgqL1MDUQBxE3AhOnQUL1YSNzhdciF5TkspH1x2TzFKMTpoaFcKI3JZAR0SFlwNdnhONXMYFxkObAR3BmYDE2osK38DYAk_TBINGQ5LAHlyDDAaf2BdfntURGJEUS44Ci0OHEgTUCpcfgU9P0BfD0QtLDhrSi51CXQVIWZAA3EKHBUYV0k3L3tHIj03dSIeRig0OhcTOiJ3BkIQERY1PXAtPg5BHxYHUGUdSw8KCAVRBwBpRRYRAWpkKhwBSyIGXjsnCXJULzcGRD4BPWo2LVQnDiFzVDcKfGo-Z2ZCE2dfJAkOeGsOPkYeOyIdZSAodiMGZlBpAT5fdT4DQBQkJnwOJiBcQTQCA3gwVmtxOw9hEx1jXhcCenRaHidddUMuXwgZFH5lBS15RQFAN1kKPHomRRZbcCEZWE1CI3MSQRALOCcsUGgAL0JtHDduCwoAbS40BmJGAXhpTzMBflA1YwonPy4ET1sTTmsvJhgWXAl1GDs3dXk0NV56AXcGZhYBCDcZCWhDVH9DYwxDCX5cJXkYEAsLayEbaHohZQNTFD9-HD4iXVxQB28eIzYVZ0t5cRdTY3BbLTVBSR4iARQcbGgULykUFCUwDkY9AmkHAzwAIhtjBkwuOF1bR3cGYgEjDS80AGhHNA1wZQcXHgc9AQIjH2ZadBsUUmo6BFNtPjJ1GzhrZVESNhMYCjYzdyYMc3UXBgBUKiloFRoYYBMcI3pvJm51H0Z0cGYuJTVKOhplLFNjdGRMJ1hFCGBFFFJmfhQ8blRpOzBDD3o1NlZdIkIqQQdqYwl1D1UGBnFjJGFoCQ4tZG1UC3BQLRIPClh-YicyKXBPPHtea0ACRFQkYUw_SGhzTFA8fGcLGRNkOnt_Ny8FWgRKDnRUCCsNck5iQgY9PENrUgB3TjIfYAILIg4jISd_RiAGD3UTIUxtBmFoJwoUFBQhAAZHL0o-QQp4Ui0jdABnEXhJegc8bGtBZEFrGypfUSoqeHsREnwBKBxdEj4rQ1JIIAhNBDsRFjEQdQleDnBDDnRlWQs3FEIPGkcSGDdEVi0Wfk0gIXJyAyANaTUdSHwWEUx-LUcDe0t5cSgDG31sLhZMEz0ZeH0DJ2IsGh9jXiUrZ2URNhx6XSEScjQydU1LBnhUBjVfRwcQbwoMOXxUOx4CU34VLWkBf1IXFxxiEDUYaEsAI2x9TzZLFUhoc2AsJV8PejVoaUt5cRdFEhcTOjRAagEVWVM9H0wzKQ94ZDYPQGApPw9GS3l1Cwdkf2k2FXh7KWpdVAQhVBddK1tkCwtxc3k6CloXclR5BhxZdRc6VG1AE0IBRRZMDxgDV2hQFWVufjAqFlwNR3I4OlRXMHl8ayk7Q3Q0E05pGSMFcQF0dHx9HilaHB1ddgY2WFUMKHxlJjtgbxtxChw7EHNOEX5_XCkwE2sUMQQSN2hRR0AqbhdDF35sGDkdbCsJfFUoKQN9ECEXUS0HEnIwJVZsDTl9WxIXZUscOl4cBBkFXhk2BQ96NW1VOHNgCE5hBhk1P3sbMWp_dxYTdSZaFGFFKAADWi4LL3UfMk0vHwdIVj81UkY8NlxeITxfbAE4WUwbE05wEEUgei0EYRQ9CBcTOgJWRhkaUnQWM0k4WGJfdhUrY0UhRjUWXAltGj86Y1ELCmFSEiZEUQ4wHWwrMAhEMCFOXhA4GAs8LgMPM2lLES0DCkdVYHZmFhleCgQdaxYXEwNQAyAKAik9Ugc3GAQESg4cETZmXhcSEWsVVBt-SwcUQ0cMBz1LOX99Bx5kdksaBVxtRDcHfhsFTyYVA15wLCVjTD0VHAVbEhJyMCdzUh8dfWwDYm5MMDlBLlhpfksBMWE&expires=1784957700&token=d23dff0a4ce7cf37032306dd2631d8f237f98bffabf2b3768749ce63b81d7d28
+
+
+#EXTINF:-1 tvg-chno="273" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Angels vs Giants (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Angels vs Giants (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=2PLNT-qboIjYqWL-rAvR66u9eWCMiOi72d7V77BwzJw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%2F&expires=1784948421/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq/107.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=2--Z6i9siCGfVEW3grWLTrTjM3Lzufj8I4qbbzHgpPE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%2F&expires=1784961041/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq/107.m3u8
 
 
-#EXTINF:-1 tvg-chno="271" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs Washington Nationals (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Arizona Diamondbacks vs Washington Nationals (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-9b5feb01.4587.website/6a645b94.7793d3eei5c3b601d.9593.e3e7fbd4/free.live.espn/master.m3u8
-
-
-#EXTINF:-1 tvg-chno="272" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Astros vs White Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Astros vs White Sox (WEBCAST)
+#EXTINF:-1 tvg-chno="278" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Astros vs White Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Astros vs White Sox (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=0uInylkvPByLDHP8ZrpGUcLRNnaM7KEnZUlP0rLx_FA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%2F&expires=1784948419/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb/123.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=axqyeKfuer_q5PNKxcuU9OtrBEtOdMvJdu8lgQgQvDg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%2F&expires=1784961039/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb/123.m3u8
 
 
-#EXTINF:-1 tvg-chno="277" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Twins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Athletics vs Twins (WEBCAST)
+#EXTINF:-1 tvg-chno="282" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Twins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Athletics vs Twins (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=tt_nuqKIWlG6p_WvYk57jYNtwFlnUCEsFPppM-vQJko&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD%2F&expires=1784948420/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD/121.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=N0622rYQW2sQmoVCZc0cUtfdR2hRfmgUcktJiL7eVqU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD%2F&expires=1784961040/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD/121.m3u8
 
 
-#EXTINF:-1 tvg-chno="279" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves at Baltimore Orioles (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves at Baltimore Orioles (SPRTSPASS)
+#EXTINF:-1 tvg-chno="284" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves at Baltimore Orioles (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves at Baltimore Orioles (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/orioles.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/orioles.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pannyockman.s3.us-east-1.amazonaws.com/orioles.m3u8
 
 
-#EXTINF:-1 tvg-chno="283" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs Baltimore Orioles (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Atlanta Braves vs Baltimore Orioles (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-8bba18be.4587.website/6a646629.f5953b5fi5c3b601d.959d.499c2590/free.live.espn/master.m3u8
-
-
 #EXTINF:-1 tvg-chno="289" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Braves vs Orioles (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Braves vs Orioles (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=pwtYoR4FGL3DQoLRVXltzAs66mcog3WEwCXv2kA4Imo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z%2F&expires=1784948416/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z/237.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=9B1gWhS0SMxNPkv0FnEORGhow-57zO3wpXyeOab5omE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z%2F&expires=1784961036/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z/237.m3u8
 
 
 #EXTINF:-1 tvg-chno="291" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs at Pittsburgh Pirates (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs at Pittsburgh Pirates (SPRTSPASS)
@@ -723,193 +736,130 @@ https://webcast-origin.b-cdn.net/bcdn_token=pwtYoR4FGL3DQoLRVXltzAs66mcog3WEwCXv
 https://pannyockman.s3.us-east-1.amazonaws.com/cubs.m3u8
 
 
-#EXTINF:-1 tvg-chno="294" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Pittsburgh Pirates (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Pittsburgh Pirates (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb621/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODQ5NDc0Mjg4Nzc6Y2RubGl2ZXR2LnR2OjdjMGRlZGIxODc0MDNkMDcuZDRiYzJjZDc2OGU0NWY0OGFiMjNhMTZhNDIwNzFiNmRkZTRjYmY1ODY1MTk0MjQ5MTY0NmQ5YWY2M2FiYWFmNw
-
-
-#EXTINF:-1 tvg-chno="295" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Pittsburgh Pirates (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Chicago Cubs vs Pittsburgh Pirates (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-9b5feb01.4587.website/6a645b24.8c3dca66i5c3b601d.9588.b9ae5e6f/free.live.espn/master.m3u8
-
-
-#EXTINF:-1 tvg-chno="302" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians at Tampa Bay Rays (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cleveland Guardians at Tampa Bay Rays (SPRTSPASS)
+#EXTINF:-1 tvg-chno="299" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians at Tampa Bay Rays (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cleveland Guardians at Tampa Bay Rays (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/rays.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/rays.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pannyockman.s3.us-east-1.amazonaws.com/rays.m3u8
 
 
-#EXTINF:-1 tvg-chno="306" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Tampa Bay Rays (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cleveland Guardians vs Tampa Bay Rays (MP66)
+#EXTINF:-1 tvg-chno="305" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cubs vs Pirates (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cubs vs Pirates (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=667RVvjWOx3cFYN2KzI9eRW1kTJymJ-YgmhqsMmC_l8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D%2F&expires=1784961035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D/113.m3u8
+
+
+#EXTINF:-1 tvg-chno="306" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Diamondbacks vs Nationals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Diamondbacks vs Nationals (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=ivqg0tyr9RTlZtq2XSynAISvkIPDNIZ3N8YxAAp1uKQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61%2F&expires=1784961035/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61/112.m3u8
+
+
+#EXTINF:-1 tvg-chno="307" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Mets (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Dodgers vs Mets (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=8-tBO99DAWmQZGz4mXavqJK1AH_M5cV-sgeqQQqXGSU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F&expires=1784961038/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy/109.m3u8
+
+
+#EXTINF:-1 tvg-chno="308" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Guardians vs Rays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Guardians vs Rays (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=I90ef1ibLm4-FrCBLkYhQMAV6azDmkwiXZa48gDDECo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1784961038/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
+
+
+#EXTINF:-1 tvg-chno="312" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Jays vs Red Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Jays vs Red Sox (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=JB9oAv-Za6MNRMt_FdQymbjfGkYyLfpqRb3F9iG1PBw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%2F&expires=1784961037/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE/120.m3u8
+
+
+#EXTINF:-1 tvg-chno="320" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs San Francisco Giants (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Angels vs San Francisco Giants (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc159/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTU5OjE3ODQ5NTkyMzQyMzY6Y2RubGl2ZXR2LnR2OjE4MDhhZjA1M2ZhNDdlNDcuOGZmZGEyODA3ZGM2YjFmNjNjZjgwYWQ4OGIwNmJkNTg4ZDZlN2FkYmU5YTY3OWMzMDM2ZTYxMDhiNmJiNDExOA
+
+
+#EXTINF:-1 tvg-chno="321" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs San Francisco Giants (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Angels vs San Francisco Giants (MP66)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-8bba18be.4587.website/6a646629.a689bfcei5c3b601d.9598.7ae739e3/free.live.espn/master.m3u8
+https://node-9b5feb01.4587.website/6a64904b.621fca3ci5c3b601d.9627.7b486c5b/free.live.espn/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="311" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cubs vs Pirates (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Cubs vs Pirates (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=3Z-B6wuxsP5W8uHCZ9HK42ulduieEqlWR9ApwDgw0Ew&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D%2F&expires=1784948415/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D/113.m3u8
-
-
-#EXTINF:-1 tvg-chno="315" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Diamondbacks vs Nationals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Diamondbacks vs Nationals (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=YvKb44jahHibbQHqsfY2gKqQECfXca6XypHNeAZ_P64&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61%2F&expires=1784948416/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61/112.m3u8
-
-
-#EXTINF:-1 tvg-chno="316" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Mets (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Dodgers vs Mets (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=vbNJoivz8WXtv2llfkmcU9__w0d0aSFyE4syP_sgePQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F&expires=1784948418/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy/109.m3u8
-
-
-#EXTINF:-1 tvg-chno="317" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Guardians vs Rays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Guardians vs Rays (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=gr_QCtjieBqIsfBMYomJQfOLxFK-HTvLTpj_HBCwR5o&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1784948419/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
-
-
-#EXTINF:-1 tvg-chno="322" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Chicago White Sox (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Houston Astros vs Chicago White Sox (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-025d151e.4587.website/6a646d1a.87e75059i5c3b601d.95a1.fa728a1e/free.live.espn/master.m3u8
-
-
-#EXTINF:-1 tvg-chno="323" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Jays vs Red Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Jays vs Red Sox (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=nzZb8nqXtBPsBKJsx4AwCAIeg8VzmPQtlvfxuH7xDDc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%2F&expires=1784948417/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE/120.m3u8
-
-
-#EXTINF:-1 tvg-chno="325" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals at Detroit Tigers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Kansas City Royals at Detroit Tigers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.site/mlb/tigers.html
-#EXTVLCOPT:http-origin=https://sportspass.site/mlb/tigers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pannyockman.s3.us-east-1.amazonaws.com/tigers.m3u8
-
-
-#EXTINF:-1 tvg-chno="329" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals vs Detroit Tigers (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Kansas City Royals vs Detroit Tigers (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-9b5feb01.4587.website/6a645b24.8a2dc259i5c3b601d.958e.bda6418d/free.live.espn/master.m3u8
-
-
-#EXTINF:-1 tvg-chno="334" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers at New York Mets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Dodgers at New York Mets (SPRTSPASS)
+#EXTINF:-1 tvg-chno="323" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers at New York Mets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Dodgers at New York Mets (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/dodgers.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/dodgers.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pannyockman.s3.us-east-1.amazonaws.com/dodgers.m3u8
 
 
-#EXTINF:-1 tvg-chno="337" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs New York Mets (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Dodgers vs New York Mets (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb625/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3ODQ5NDc0NTA5Njk6Y2RubGl2ZXR2LnR2OjZmZGFiYWM2MTliNTljNmYuNmIzMzc5ZGE0ZWY5NTYyYjAxYTAxMzA5NTg2ZmNmMDM0ZDA2NzZmM2ZjZjZhYzY2OGY3NmQxMmRkZTczYzZjNg
-
-
-#EXTINF:-1 tvg-chno="338" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs New York Mets (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Dodgers vs New York Mets (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-8bba18be.4587.website/6a646629.63a0bc4ci5c3b601d.958d.602a44e4/free.live.espn/master.m3u8
-
-
-#EXTINF:-1 tvg-chno="339" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mariners vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Mariners vs Rangers (WEBCAST)
+#EXTINF:-1 tvg-chno="326" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mariners vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Mariners vs Rangers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=RCcNHWgQZWj34_kHzeBxY9IBrf3hor0Rt32E2j_4vok&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1784948420/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=mIaRe2tv-NEVXkhTA1QjifV0h3hQ9G6VfdabBJoafsw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1784961039/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
 
 
-#EXTINF:-1 tvg-chno="348" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees at Philadelphia Phillies (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees at Philadelphia Phillies (SPRTSPASS)
+#EXTINF:-1 tvg-chno="331" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees at Philadelphia Phillies (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees at Philadelphia Phillies (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/yankees.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/yankees.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pannyockman.s3.us-east-1.amazonaws.com/yankees.m3u8
 
 
-#EXTINF:-1 tvg-chno="351" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Philadelphia Phillies (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] New York Yankees vs Philadelphia Phillies (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb616/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE2OjE3ODQ5NDc0MzY2ODU6Y2RubGl2ZXR2LnR2OmFlZDNkYTRlOTRhOTU3M2EuODI3MmNkODRkYjU5ZjI5MzM5NDlhZmNhMzU1NmU0MzhkMTAxNjdkZGNmYjA5OWEwNjEzYmQ1NDYzNTg3NWU4NA
-
-
-#EXTINF:-1 tvg-chno="352" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Marlins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Padres vs Marlins (WEBCAST)
+#EXTINF:-1 tvg-chno="334" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Marlins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Padres vs Marlins (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=rgwWoxsGyrXlMDIuW7kHPp_WrFibB_Zx00WPs06PyEw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1784948418/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=e-bn-o1zgA3fDm51DSOGcXjyjyklSb3zHKqGYvjr8X8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1784961037/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
 
 
-#EXTINF:-1 tvg-chno="359" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Reds vs Cardinals (WEBCAST)
+#EXTINF:-1 tvg-chno="335" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Reds vs Cardinals (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=2cMcz5Vx2iVTW1kc-JUiSSo0Q2H6707nqIrunFVlcB8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym%2F&expires=1784948421/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym/132.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=it63jz69OWCooQLcAPyue6EVcFMqT-sg5QFISy2mGww&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym%2F&expires=1784961040/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym/132.m3u8
 
 
-#EXTINF:-1 tvg-chno="360" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rockies vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Rockies vs Brewers (WEBCAST)
+#EXTINF:-1 tvg-chno="336" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rockies vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Rockies vs Brewers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=Xz8cTh4LNgcfj6OumspLGRQ-ovkAjfPGu6BMCspmEpc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1784948413/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=1l6wnSJFmqeFf490RnOLLeTobb-qrtlmZShllF2dWK8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1784961033/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
 
 
-#EXTINF:-1 tvg-chno="361" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Royals vs Tigers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Royals vs Tigers (WEBCAST)
+#EXTINF:-1 tvg-chno="337" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Royals vs Tigers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Royals vs Tigers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=Yv0GEw1D_hlKIIsBu76UTCkTcbsj5aRnMN8V4_AlhTQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1784948414/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=HiwKwniHNN31kOFlL5NqIgchIM-NGfdmLxhyY9SUPLg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1784961034/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
 
 
-#EXTINF:-1 tvg-chno="363" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres at Miami Marlins (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] San Diego Padres at Miami Marlins (SPRTSPASS)
+#EXTINF:-1 tvg-chno="339" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres at Miami Marlins (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] San Diego Padres at Miami Marlins (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/padres.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/padres.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pannyockman.s3.us-east-1.amazonaws.com/padres.m3u8
 
 
-#EXTINF:-1 tvg-chno="367" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Miami Marlins (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] San Diego Padres vs Miami Marlins (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-025d151e.4587.website/6a646629.08c63902i5c3b601d.95a5.2a667cfe/free.live.espn/master.m3u8
-
-
-#EXTINF:-1 tvg-chno="369" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners at Texas Rangers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Seattle Mariners at Texas Rangers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.site/mlb/rangers.html
-#EXTVLCOPT:http-origin=https://sportspass.site/mlb/rangers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pannyockman.s3.us-east-1.amazonaws.com/rangers.m3u8
-
-
-#EXTINF:-1 tvg-chno="377" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays at Boston Red Sox (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Toronto Blue Jays at Boston Red Sox (SPRTSPASS)
+#EXTINF:-1 tvg-chno="352" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays at Boston Red Sox (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Toronto Blue Jays at Boston Red Sox (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/bluejays.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/bluejays.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pannyockman.s3.us-east-1.amazonaws.com/bluejays.m3u8
 
 
-#EXTINF:-1 tvg-chno="384" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Yankees vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Yankees vs Phillies (WEBCAST)
+#EXTINF:-1 tvg-chno="355" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Yankees vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Yankees vs Phillies (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-origin.b-cdn.net/bcdn_token=QhtiH8QNFXYChsTWw1unX2fDqyhyhLm3-WGh8dX1KMk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37%2F&expires=1784948415/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37/114.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=Mvz5PQWEpI1NvSjj-g0OICNMV_1N_MDL8Fm2UjMw4LY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37%2F&expires=1784961034/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37/114.m3u8
 
 
 # --- END AUTOGENERATED ---
