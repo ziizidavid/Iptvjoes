@@ -111,24 +111,12 @@ http://23.239.31.26:8989/axstv/index.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" ,BBC One
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2359.ts
-
-
 #EXTINF:-1 tvg-chno="12" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" ,BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
-#EXTINF:-1 tvg-chno="13" tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1 France" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89738_dark_360w_270h.png" ,beIN Sports 1 France
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194
-
-
 #EXTINF:-1 tvg-chno="14" tvg-id="beIN.Sports.En.Español.HD.us2" tvg-name="beIN Sports en Español" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png" ,beIN Sports en Español
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21586.ts
-
-
-#EXTINF:-1 tvg-chno="15" tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" ,beIN Sports USA
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21585.ts
 
 
 #EXTINF:-1 tvg-chno="16" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" ,BET
@@ -251,6 +239,10 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
 
 
+#EXTINF:-1 tvg-chno="46" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" ,Discovery Life
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
+
+
 #EXTINF:-1 tvg-chno="47" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" ,Discovery Science
 https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
 
@@ -285,10 +277,6 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" ,ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="56" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" ,ESPN2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 
 
 #EXTINF:-1 tvg-chno="57" tvg-id="Flix.us2" tvg-name="Flix" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10201_dark_360w_270h.png" ,Flix
@@ -327,6 +315,10 @@ https://cdn.telecloud.tv/CH3223/index.m3u8
 https://cdn.telecloud.tv/CH3225/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="66" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" ,Freeform TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts
+
+
 #EXTINF:-1 tvg-chno="67" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" ,FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
@@ -341,10 +333,6 @@ http://40.160.24.52/FXM/index.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" ,FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="71" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" ,FYI TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts
 
 
 #EXTINF:-1 tvg-chno="72" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" ,Game Show Network
@@ -411,6 +399,10 @@ http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/555699.ts
 
 
+#EXTINF:-1 tvg-chno="88" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" ,ITV1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
+
+
 #EXTINF:-1 tvg-chno="89" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" ,Lifetime
 http://41.205.93.154/LIFETIME/index.m3u8
 
@@ -421,10 +413,6 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-chno="91" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" ,Marquee Sports Network
 https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="92" tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s159817_dark_360w_270h.png" ,MeTV Toons
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/721378.ts
 
 
 #EXTINF:-1 tvg-chno="93" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" ,MLB Network
@@ -495,6 +483,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts
 http://88.212.15.35:80/newsmax/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-chno="110" tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" ,NewsNation
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647784.ts
+
+
 #EXTINF:-1 tvg-chno="111" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" ,NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
@@ -509,10 +501,6 @@ http://40.160.24.55/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" ,Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="115" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" ,Nicktoons
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
 
 
 #EXTINF:-1 tvg-chno="116" tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83953_dark_360w_270h.png" ,One America News
@@ -587,6 +575,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2185.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
 
 
+#EXTINF:-1 tvg-chno="134" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" ,Sky Sports Premier League
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
+
+
 #EXTINF:-1 tvg-chno="135" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" ,Smithsonian Channel
 http://40.160.24.55/SMITHSONIAN/index.m3u8
 
@@ -595,24 +587,20 @@ http://40.160.24.55/SMITHSONIAN/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
 
 
-#EXTINF:-1 tvg-chno="137" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" ,Space City Home Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
-
-
-#EXTINF:-1 tvg-chno="139" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" ,Spectrum SportsNet Lakers
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts
+#EXTINF:-1 tvg-chno="138" tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" ,Spectrum SportsNet LA Dodgers
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 
 
 #EXTINF:-1 tvg-chno="140" tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" ,Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 
 
+#EXTINF:-1 tvg-chno="141" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" ,Sportsnet East
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts
+
+
 #EXTINF:-1 tvg-chno="142" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" ,SportsNet New York
 http://40.160.24.55/SNY/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="143" tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" ,Sportsnet One
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts
 
 
 #EXTINF:-1 tvg-chno="144" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" ,Starz
@@ -643,6 +631,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="151" tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117217_dark_360w_270h.png" ,STV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts
+
+
 #EXTINF:-1 tvg-chno="152" tvg-id="SundanceTV.HD.us2" tvg-name="Sundance" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" ,Sundance
 http://40.160.24.55/SUNDANCE/index.m3u8
 
@@ -667,12 +659,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts
 
 
-#EXTINF:-1 tvg-chno="158" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" ,TLC
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2594.ts
-
-
 #EXTINF:-1 tvg-chno="159" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" ,TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-1 tvg-chno="160" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97542_dark_360w_270h.png" ,TNT Sports 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2337.ts
 
 
 #EXTINF:-1 tvg-chno="161" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" ,truTV
@@ -765,20 +757,6 @@ https://mahioplan.s3.us-east-1.amazonaws.com/redsox.m3u8
 https://mahioplan.s3.us-east-1.amazonaws.com/tigers.m3u8
 
 
-#EXTINF:-1 tvg-chno="326" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers vs Seattle Mariners (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Detroit Tigers vs Seattle Mariners (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb61c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFjOjE3ODYwNjYyNDM2Mjk6Y2RubGl2ZXR2LnR2OjRjOTcwNjNiNWE2OGFhMzguYzQ0ZDljYTk3ZWQzODM5N2E3MzRkMjU3Nzk2MDc5ZWNmYmVjNmE0YjEyMTcyMDU4MGZhNTllZjQ4NTI0YjA4Mw
-
-
-#EXTINF:-1 tvg-chno="327" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers vs Seattle Mariners (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Detroit Tigers vs Seattle Mariners (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-8bba18be.4587.website/6a7309c2.a47ba03bi5c3b601d.a2aa.f98b650c/free.live.espn/master.m3u8
-
-
 #EXTINF:-1 tvg-chno="338" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers at Chicago Cubs (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] Los Angeles Dodgers at Chicago Cubs (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.site/mlb/dodgers.html
 #EXTVLCOPT:http-origin=https://sportspass.site/mlb/dodgers.html
@@ -840,13 +818,6 @@ https://mahioplan.s3.us-east-1.amazonaws.com/padres.m3u8
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb630/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3ODYwNjYyNDQzODg6Y2RubGl2ZXR2LnR2Ojg3NDc3M2FjYjhmMjJjZjguNmU2MGJkZjdmYmFlMTRjODk0NDQ3MjcxMzQ2YThlNDcxMzAyMjM2YWZjODVmZGMzOWU5MGRhM2QzNTUwNmJhOA
-
-
-#EXTINF:-1 tvg-chno="372" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Arizona Diamondbacks (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] San Diego Padres vs Arizona Diamondbacks (MP66)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-8bba18be.4587.website/6a7309c2.63e85419i5c3b601d.a2ac.04c6ba82/free.live.espn/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="374" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants at Texas Rangers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" ,[MLB] San Francisco Giants at Texas Rangers (SPRTSPASS)
